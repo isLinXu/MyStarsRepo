@@ -1,0 +1,2 @@
+# MyStarRepo
+GitHub collection
