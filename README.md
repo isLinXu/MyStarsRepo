@@ -2212,5 +2212,519 @@ Image classification using SVM, KNN, Bayes, Adaboost, Random Forest and CNN.Extr
 
 ---
 
+### [NishaLab / sport_image_classifier](https://github.com/NishaLab/sport_image_classifier)
 
+Simple sport image classifier based on 10 sport using color, moments and texture feature of the image
+
+---
+
+### [Silent-Zebra / shallow-conv](https://github.com/Silent-Zebra/shallow-conv)
+
+Unsupervised learning of conv layers; feature extraction through image proximity
+
+---
+
+### [Geekgineer / day-night-image-classifier-pipeline](https://github.com/Geekgineer/day-night-image-classifier-pipeline)
+
+A pipeline image classifier based on feature extraction that can accurately label an image as day or night, and distinguishing features between two types of images!
+
+---
+
+### [AlbyFer / The-Machine-can-see-you](https://github.com/AlbyFer/The-Machine-can-see-you)
+
+Machine Vision: classifying plankton images in 120 species. The program includes feature extraction and classification using feed-forward neural networks. Full .pdf description file included.
+
+---
+
+### [1044197988 / Python-Image-feature-extraction](https://github.com/1044197988/Python-Image-feature-extraction)
+
+Python实现提取图像的纹理、颜色特征，包含快速灰度共现矩阵（GLCM）、LBP特征、颜色矩、颜色直方图。
+
+---
+
+### [facebookresearch / maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
+
+Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
+
+---
+
+### [matterport / Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+
+Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+
+---
+
+### [joooogle / Automatic-labeling-of-instance-segmentation-Mask-Rcnn-in-static-background-base-on-labelme](https://github.com/joooogle/Automatic-labeling-of-instance-segmentation-Mask-Rcnn-in-static-background-base-on-labelme)
+
+静态背景下实例分割数据集自动标注工具，基于Labelme改进。可以自动生成labelme格式的json文件。(注意：本程序只适用于大量图片基于静态背景)原理是：背景减除后得到高质量的二值图，计算连通域外轮廓坐标，再将信息写入json文件。
+
+---
+
+### [OmkarThawakar / TWO-GENERATOR-GAN](https://github.com/OmkarThawakar/TWO-GENERATOR-GAN)
+
+Background-Foreground Segmentation Recurrent GAN
+
+---
+
+### [Separius / SimCLRv2-Pytorch](https://github.com/Separius/SimCLRv2-Pytorch)
+
+Pretrained SimCLRv2 models in Pytorch
+
+---
+
+### [hpc203 / yolo-fastestv2-opencv](https://github.com/hpc203/yolo-fastestv2-opencv)
+
+使用OpenCV部署Yolo-FastestV2，包含C++和Python两种版本的程序
+
+---
+
+### [Jack-Cherish / Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning)
+
+深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
+
+---
+
+### [leijue222 / portrait-matting-unet-flask](https://github.com/leijue222/portrait-matting-unet-flask)
+
+Portrait Mating implementation in UNet with PyTorch.
+
+---
+
+### [fortis3000 / blob_detection](https://github.com/fortis3000/blob_detection)
+
+Blob detection using Unet and skimage blob detectors
+
+---
+
+### [bigmb / Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets)
+
+Implementation of different kinds of Unet Models for Image Segmentation - Unet , RCNN-Unet, Attention Unet, RCNN-Attention Unet, Nested Unet
+
+---
+
+### [AlexeyAB / Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
+
+GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
+
+---
+
+### [janmejaya-nanda / metal_crack_detector](https://github.com/janmejaya-nanda/metal_crack_detector)
+
+An Image classifier using CNN to detect defects on meta surface.
+
+---
+
+### [danielshaving / BlobFrameImage_googlenet_trained_caffe_model_to_do_ObjDetection](https://github.com/danielshaving/BlobFrameImage_googlenet_trained_caffe_model_to_do_ObjDetection)
+
+Easiest way to test the image classification(Googlenet trained)
+
+---
+
+### [ukalwa / blob_color_detection](https://github.com/ukalwa/blob_color_detection)
+
+A simple color blob detector to identify track color blobs in my favourite game using OpenCV 3.1 and Python
+
+---
+
+### [hirotong / DatawhaleCV](https://github.com/hirotong/DatawhaleCV)
+
+Datawhale CV 实践组队学习打卡
+
+---
+
+### [JNingWei / pytorch-cifar100](https://github.com/JNingWei/pytorch-cifar100)
+
+Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet…
+
+---
+
+### [pjreddie / darknet](https://github.com/pjreddie/darknet)
+
+Convolutional Neural Networks
+
+---
+
+### [EliasVansteenkiste / edge_detection_framework](https://github.com/EliasVansteenkiste/edge_detection_framework)
+
+Pytorch implementation of different edge detection networks, such as Holistically-Nested Edge Detection and PixelNet
+
+---
+
+### [decouples / Unet](https://github.com/decouples/Unet)
+
+A demo of Unet to detect edges!
+
+---
+
+### [fvilmos / cascade_tools](https://github.com/fvilmos/cascade_tools)
+
+Automate the retraining of cascade classifiers in OpenCV
+
+---
+
+### [joelibaceta / video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector)
+
+It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
+
+---
+
+### [youyuge34 / Anime-InPainting](https://github.com/youyuge34/Anime-InPainting)
+
+An application tool of edge-connect, which can do anime inpainting and drawing. 动漫人物图片自动修复，去马赛克，填补，去瑕疵
+
+---
+
+### [PINTO0309 / YoloTrainDataGenerate](https://github.com/PINTO0309/YoloTrainDataGenerate)
+
+Procedures and tools for semi-mechanically automatically generating YoloV2 original learning data from video.
+
+---
+
+### [kanishk307 / crack-detection-beproject](https://github.com/kanishk307/crack-detection-beproject)
+
+A python-based crack detection and classification system using deep learning; used YOLO object detection algorithm. To extract the features of cracks we used Computer Vision and developed a desktop…
+
+---
+
+### [brunovollmer / opencv_label_tool](https://github.com/brunovollmer/opencv_label_tool)
+
+Video labeling tool based on OpenCV. Easily customizable.
+
+---
+
+### [rybread1 / deep_image](https://github.com/rybread1/deep_image)
+
+Tools for image altering using Deep NNs. Style transfer, super resolution and more (to come!)
+
+---
+
+### [neuralchen / Video_Edit_Tools](https://github.com/neuralchen/Video_Edit_Tools)
+
+A python tool set for images to video, gif and so on
+
+---
+
+### [BrianOfrim / boja](https://github.com/BrianOfrim/boja)
+
+An end to end object detection tool. All the way from capturing and labeling images to training and deployment.
+
+---
+
+### [mett96 / segmentation-evaluation](https://github.com/mett96/segmentation-evaluation)
+
+The tool allows to manually segment an image and perform analysis of the segmentation through recall and precision
+
+---
+
+### [gotoofar / tools_pytorch](https://github.com/gotoofar/tools_pytorch)
+
+pytorch tools like image argumentor and load etc.
+
+---
+
+##  REPOSITORIES
+
+<details class="details-overlay details-reset position-absolute top-0 right-0" style="box-sizing: border-box; display: block; position: absolute !important; top: 0px !important; right: 0px !important;"><summary aria-label="Show filters" aria-haspopup="menu" role="button" style="box-sizing: border-box; display: list-item; cursor: pointer; list-style: none;"><span class="btn-link f6" style="box-sizing: border-box; display: inline-block; padding: 0px; font-size: 12px !important; color: var(--color-accent-fg); text-decoration: none; white-space: nowrap; cursor: pointer; user-select: none; background-color: transparent; border: 0px; appearance: none;">Filters<span>&nbsp;</span><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down ml-1 v-align-text-bottom"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg></span></summary></details>
+
+### [rybread1 / deep_image](https://github.com/rybread1/deep_image)
+
+Star
+
+Tools for image altering using Deep NNs. Style transfer, super resolution and more (to come!)
+
+ Python [ 6 ](https://github.com/rybread1/deep_image/stargazers)[ 2 ](https://github.com/rybread1/deep_image/network/members)Updated on 7 Nov 2020
+
+### [neuralchen / Video_Edit_Tools](https://github.com/neuralchen/Video_Edit_Tools)
+
+Star
+
+A python tool set for images to video, gif and so on
+
+ Python [ 6 ](https://github.com/neuralchen/Video_Edit_Tools/stargazers)Updated on 10 Jul 2019
+
+### [BrianOfrim / boja](https://github.com/BrianOfrim/boja)
+
+Star
+
+An end to end object detection tool. All the way from capturing and labeling images to training and deployment.
+
+ Python [ 6 ](https://github.com/BrianOfrim/boja/stargazers)[ 4 ](https://github.com/BrianOfrim/boja/network/members)Updated on 2 Jun
+
+### [mett96 / segmentation-evaluation](https://github.com/mett96/segmentation-evaluation)
+
+Star
+
+The tool allows to manually segment an image and perform analysis of the segmentation through recall and precision
+
+ Python [ 5 ](https://github.com/mett96/segmentation-evaluation/stargazers)Updated 12 days ago
+
+### [gotoofar / tools_pytorch](https://github.com/gotoofar/tools_pytorch)
+
+pytorch tools like image argumentor and load etc.
+
+---
+
+### [JNingWei / BaiduImageSpider](https://github.com/JNingWei/BaiduImageSpider)
+
+一个超级轻量的百度图片爬虫
+
+---
+
+### [NadavShwartz93 / Image-Classification](https://github.com/NadavShwartz93/Image-Classification)
+
+Image classification project. Use Keras CNN model of ResNet50, train two models on two kind of datasets.
+
+---
+
+### [RadishCode / Defect-workpiece-identification-based-on-OpenCV](https://github.com/RadishCode/Defect-workpiece-identification-based-on-OpenCV)
+
+基于OpenCV的缺陷识别和分类
+
+---
+
+### [sightmachine / SimpleCV](https://github.com/sightmachine/SimpleCV)
+
+The Open Source Framework for Machine Vision
+
+---
+
+### [ming71 / CV_PaperDaily](https://github.com/ming71/CV_PaperDaily)
+
+CV 论文笔记
+
+---
+
+### [extreme-assistant / CVPR2021-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation)
+
+cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
+
+---
+
+### [lukemelas / EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+
+A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
+
+---
+
+### [qubvel / classification_models](https://github.com/qubvel/classification_models)
+
+Classification models trained on ImageNet. Keras.
+
+---
+
+### [wudashuo / yolov5](https://github.com/wudashuo/yolov5)
+
+YOLOv5 汉化版，保持官方同步更新
+
+---
+
+### [DeepVAC / yolov5](https://github.com/DeepVAC/yolov5)
+
+DeepVAC-compliant Yolo v5 implementation.
+
+---
+
+### [SpongeBab / yolo_data_scripts](https://github.com/SpongeBab/yolo_data_scripts)
+
+用于生成供YOLOv4和v5训练的数据集。包括标签，路径等
+
+---
+
+### [liangheming / yolo_seriesv1](https://github.com/liangheming/yolo_seriesv1)
+
+YOLOv4/v5, clean code, good performance,easy to understand.
+
+---
+
+### [mikel-brostrom / Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
+
+Real-time multi-object tracker using YOLO v5 and deep sort
+
+---
+
+### [uvipen / Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch)
+
+YOLO for object detection tasks
+
+---
+
+### [wuzhihao7788 / yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch)
+
+reproduce the YOLO series of papers in pytorch, including YOLOv4, PP-YOLO, YOLOv5，YOLOv3, etc.
+
+---
+
+### [Tianxiaomo / pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+
+PyTorch ,ONNX and TensorRT implementation of YOLOv4
+
+---
+
+### [bubbliiiing / yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch)
+
+这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。
+
+---
+
+### [qfgaohao / pytorch-ssd](https://github.com/qfgaohao/pytorch-ssd)
+
+MobileNetV1, MobileNetV2, VGG based SSD/SSD-lite implementation in Pytorch 1.0 / Pytorch 0.4. Out-of-box support for retraining on Open Images dataset. ONNX and Caffe2 support. Experiment Ideas lik…
+
+---
+
+### [thomasmatt88 / tfhub-od-easy](https://github.com/thomasmatt88/tfhub-od-easy)
+
+Quickly and easily deploy TF2 Image Object Detection models from TensorFlow Hub trained on COCO 2017 dataset.
+
+---
+
+### [PaddlePaddle / PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
+
+Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+
+---
+
+### [AlexiaJM / Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
+
+Deep learning with cats (^._.^)
+
+---
+
+### [object-detection-algorithm / R-CNN](https://github.com/object-detection-algorithm/R-CNN)
+
+目标检测 - R-CNN算法实现
+
+---
+
+### [rojinnew / image_segmentation](https://github.com/rojinnew/image_segmentation)
+
+This tool divides an image to a number of segments. The segmentation is based on color.
+
+---
+
+### [AbidGuroo / Identifying-Appliances-from-Energy-Use-Patterns](https://github.com/AbidGuroo/Identifying-Appliances-from-Energy-Use-Patterns)
+
+AI tools to identify 11 different types of appliances from their electric signatures, quantified by current and voltage measurements.
+
+---
+
+### [tieven-it / AI_Toolbox](https://github.com/tieven-it/AI_Toolbox)
+
+AI工具箱，放一些脱离框架实现的AI模型，通过手动造轮子加深对算法的理解。
+
+---
+
+### [aralroca / etiketai](https://github.com/aralroca/etiketai)
+
+Etiketai is an online tool designed to label images, useful for training AI models
+
+---
+
+### [SkalskiP / make-sense](https://github.com/SkalskiP/make-sense)
+
+Free to use online tool for labelling photos. https://makesense.ai
+
+---
+
+### [bighuang624 / AI-research-tools](https://github.com/bighuang624/AI-research-tools)
+
+AI 方向好用的科研工具
+
+---
+
+### [yatengLG / Retinanet-Pytorch](https://github.com/yatengLG/Retinanet-Pytorch)
+
+Retinanet目标检测算法(简单,明了,易用,全中文注释,单机多卡训练,视频检测)(based on pytorch,Simple, Clear, Mutil GPU)
+
+---
+
+### [maozezhong / TIANCHI_XUELANG_AI](https://github.com/maozezhong/TIANCHI_XUELANG_AI)
+
+天池雪浪布匹瑕疵检测，初赛线上949，排名9/2403
+
+---
+
+### [hpc203 / yolov5-dnn-cpp-python-v2](https://github.com/hpc203/yolov5-dnn-cpp-python-v2)
+
+用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序，优化后的
+
+---
+
+### [hpc203 / Yolo-Fastest-opencv-dnn](https://github.com/hpc203/Yolo-Fastest-opencv-dnn)
+
+用opencv的dnn模块实现Yolo-Fastest的目标检测
+
+---
+
+### [hpc203 / yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python)
+
+用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序
+
+---
+
+### [FLyingLSJ / PyTorch-YOLOv3-master](https://github.com/FLyingLSJ/PyTorch-YOLOv3-master)
+
+目标检测
+
+---
+
+### [SoulkeyZhang / weapon-detect-](https://github.com/SoulkeyZhang/weapon-detect-)
+
+利用yolov5模型实现的武器检测
+
+---
+
+### [wangyunjeff / yolov3-pytorch](https://github.com/wangyunjeff/yolov3-pytorch)
+
+利用Ptorch搭建自己的yolov3目标检测平台
+
+---
+
+### [B305LAB / Dection](https://github.com/B305LAB/Dection)
+
+基于Autoencode的无正样本的缺陷检测
+
+---
+
+### [hzylmf / od-annotation](https://github.com/hzylmf/od-annotation)
+
+目标检测数据集标注工具
+
+---
+
+### [xialuxi / yolov5_face_landmark](https://github.com/xialuxi/yolov5_face_landmark)
+
+基于yolov5的人脸检测，带关键点检测
+
+---
+
+### [Tencent / ObjectDetection-OneStageDet](https://github.com/Tencent/ObjectDetection-OneStageDet)
+
+单阶段通用目标检测器
+
+---
+
+### [bhecquet / yolo-training-data](https://github.com/bhecquet/yolo-training-data)
+
+data for training yolo model.
+
+---
+
+### [hunkim / PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
+
+Simple PyTorch Tutorials Zero to ALL!
+
+---
+
+### [spykard / Deep-Learning-WebApp](https://github.com/spykard/Deep-Learning-WebApp)
+
+Deploy your own or any pre-trained Deep Neural Network to the Web using Flask. Supports both text and image classifiers.
+
+---
+
+### [ankonzoid / LearningX](https://github.com/ankonzoid/LearningX)
+
+Deep & Classical Reinforcement Learning + Machine Learning Examples in Python
+
+---
 
