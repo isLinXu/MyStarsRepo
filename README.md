@@ -1,4 +1,5 @@
-# MyStarRepo
+MyStarRepo
+
 GitHub collection
 
 
@@ -2725,6 +2726,2264 @@ Deploy your own or any pre-trained Deep Neural Network to the Web using Flask. S
 ### [ankonzoid / LearningX](https://github.com/ankonzoid/LearningX)
 
 Deep & Classical Reinforcement Learning + Machine Learning Examples in Python
+
+---
+
+### [L1aoXingyu / Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
+
+A best practice for deep learning project template architecture.
+
+---
+
+### [AaronJny / DeepLearningExamples](https://github.com/AaronJny/DeepLearningExamples)
+
+深度学习中的一些小Demo。
+
+---
+
+### [sladesha / deep_learning](https://github.com/sladesha/deep_learning)
+
+基础的深度学习实验研究结果汇总笔记
+
+---
+
+### [astorfi / Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)
+
+Organized Resources for Deep Learning Researchers and Developers
+
+---
+
+### [MingchaoZhu / DeepLearning](https://github.com/MingchaoZhu/DeepLearning)
+
+Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
+
+---
+
+### [milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
+
+PyTorch implementation of the U-Net for image semantic segmentation with high quality images
+
+---
+
+### [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)
+
+Chinese version of GPT2 training code, using BERT tokenizer.
+
+---
+
+### [ddebby / AI-template](https://github.com/ddebby/AI-template)
+
+A template for AI project, especially for training phase.
+
+---
+
+### [microsoft / PyMarlin](https://github.com/microsoft/PyMarlin)
+
+Lightweight Deep Learning Model Training library based on PyTorch
+
+---
+
+### [WillBrennan / SemanticSegmentation](https://github.com/WillBrennan/SemanticSegmentation)
+
+A framework for training segmentation models in pytorch on labelme annotations with pretrained examples of skin, cat, and pizza topping segmentation
+
+---
+
+### [osmr / imgclsmob](https://github.com/osmr/imgclsmob)
+
+Sandbox for training deep learning networks
+
+---
+
+### [voldemortX / pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive)
+
+Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, SAD, PRNet, RESA, LSTR...) based on PyTorch with mixed precision training
+
+---
+
+### [Samuel-Bachorik / PyTorch-AI-road-detection-concurrent_training](https://github.com/Samuel-Bachorik/PyTorch-AI-road-detection-concurrent_training)
+
+Artificial intelligence model, training loop, model loader, inference
+
+---
+
+### [Artygo8 / PrettyPython3Algorithms](https://github.com/Artygo8/PrettyPython3Algorithms)
+
+Beautiful training algorithms in Python3.
+
+---
+
+### [developer0hye / PyTorch-ImageNet](https://github.com/developer0hye/PyTorch-ImageNet)
+
+PyTorch based Imagenet Training Code
+
+---
+
+### [guoruoqian / DetNet_pytorch](https://github.com/guoruoqian/DetNet_pytorch)
+
+An implementation of DetNet: A Backbone network for Object Detection.
+
+---
+
+### [MegEngine / Hub](https://github.com/MegEngine/Hub)
+
+基于旷视研究院领先的深度学习算法，提供满足多业务场景的预训练模型
+
+---
+
+### [dbiir / UER-py](https://github.com/dbiir/UER-py)
+
+Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
+
+---
+
+### [facebookresearch / ParlAI](https://github.com/facebookresearch/ParlAI)
+
+A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+
+---
+
+### [juancruzsosa / torchero](https://github.com/juancruzsosa/torchero)
+
+A training framework for pytorch
+
+---
+
+### [SpursLipu / YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone](https://github.com/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone)
+
+YOLO ModelCompression MultidatasetTraining
+
+---
+
+### [larq / larq](https://github.com/larq/larq)
+
+An Open-Source Library for Training Binarized Neural Networks
+
+---
+
+### [determined-ai / determined](https://github.com/determined-ai/determined)
+
+Determined: Deep Learning Training Platform
+
+---
+
+### [rohithreddy024 / VAE-GAN-Pytorch](https://github.com/rohithreddy024/VAE-GAN-Pytorch)
+
+Generation of 128x128 bird images using VAE-GAN with additional feature matching loss
+
+---
+
+### [rohithreddy024 / VAE-GAN-Pytorch](https://github.com/rohithreddy024/VAE-GAN-Pytorch)
+
+Generation of 128x128 bird images using VAE-GAN with additional feature matching loss
+
+---
+
+### [TwistedW / pytorch-GANs](https://github.com/TwistedW/pytorch-GANs)
+
+Various GANs in pytorch environment
+
+---
+
+### [dreamnettech / dreampower](https://github.com/dreamnettech/dreampower)
+
+DeepNude with DreamNet improvements.
+
+---
+
+### [huggingface / pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN)
+
+A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
+
+---
+
+### [UBCDingXin / improved_CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
+
+Continuous Conditional Generative Adversarial Networks (CcGAN)
+
+---
+
+### [open-mmlab / mmgeneration](https://github.com/open-mmlab/mmgeneration)
+
+MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
+
+---
+
+### [IntelLabs / distiller](https://github.com/IntelLabs/distiller)
+
+Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. https://intellabs.github.io/distiller
+
+---
+
+### [Jack-Cherish / python-spider](https://github.com/Jack-Cherish/python-spider)
+
+Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
+
+---
+
+### [Jack-Cherish / PythonPark](https://github.com/Jack-Cherish/PythonPark)
+
+Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
+---
+
+### [microsoft / MMdnn](https://github.com/microsoft/MMdnn)
+
+MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, …
+
+---
+
+### [jackzhenguo / python-small-examples](https://github.com/jackzhenguo/python-small-examples)
+
+告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
+
+---
+
+### [pytorch / fairseq](https://github.com/pytorch/fairseq)
+
+Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+
+---
+
+### [pytorch / examples](https://github.com/pytorch/examples)
+
+A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+
+---
+
+### [CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+---
+
+### [PyTorchLightning / pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+
+The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+
+---
+
+### [Dufert / baseNetHub_Paper](https://github.com/Dufert/baseNetHub_Paper)
+
+阅读论文后，自行实现基础的网络（在demo中实现，其他为pytorch/vision中的内容）
+
+---
+
+### [methylDragon / opencv-python-reference](https://github.com/methylDragon/opencv-python-reference)
+
+An (almost) fully comprehensive reference for OpenCV
+
+---
+
+### [cvzone / cvzone](https://github.com/cvzone/cvzone)
+
+This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
+
+---
+
+### [njanirudh / Aruco_Tracker](https://github.com/njanirudh/Aruco_Tracker)
+
+Aruco Markers for pose estimation
+
+---
+
+### [2209520576 / Infrared-Dim-Target-Detection-Based-on-Human-Visual-Mechanism](https://github.com/2209520576/Infrared-Dim-Target-Detection-Based-on-Human-Visual-Mechanism)
+
+---
+
+### [dpgaspar / Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)
+
+Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welc…
+
+---
+
+### [ekbae / opencv_webapp1](https://github.com/ekbae/opencv_webapp1)
+
+Opencv web app using Django and facedetector
+
+---
+
+### [soaibsafi / FastAPI-openCV](https://github.com/soaibsafi/FastAPI-openCV)
+
+A web application to visualize the scientific data using python.
+
+---
+
+### [BorislavY / YOLOv3_OpenCV](https://github.com/BorislavY/YOLOv3_OpenCV)
+
+An implementation of real-time object detection with a web camera using YOLOv3 and OpenCV.
+
+---
+
+### [KhanMukhtar / Multi-ObjectionDetection-webApp-Tensorflow-Opencv-flask](https://github.com/KhanMukhtar/Multi-ObjectionDetection-webApp-Tensorflow-Opencv-flask)
+
+It can Detect object in Image
+
+---
+
+### [cuteapple / mnist-cnn](https://github.com/cuteapple/mnist-cnn)
+
+keras mnist cnn with web(flask) and opencv-python demo
+
+---
+
+### [nishi-p / Rose-Image-Classification-using-TensorFlow-and-OpenCV](https://github.com/nishi-p/Rose-Image-Classification-using-TensorFlow-and-OpenCV)
+
+Web Application with Python Flask Framework. (Personal Project)
+
+---
+
+### [AlpacaWu / detection_web](https://github.com/AlpacaWu/detection_web)
+
+using flask, and opencv to build a website that user upload picture to detect edge
+
+---
+
+### [rereterry / object-detection-show-in-website](https://github.com/rereterry/object-detection-show-in-website)
+
+This project will present how to upload detection consequence to website and close website and opencv correctly
+
+---
+
+### [dharithrirai / Web_0bjectDetection](https://github.com/dharithrirai/Web_0bjectDetection)
+
+This Project is a simple objectdetection in a web page. It includes combination of OpenCV and Flask
+
+---
+
+### [DorskFR / FamilyPhotosWeb](https://github.com/DorskFR/FamilyPhotosWeb)
+
+Flask WebApp for OpenCV automatic image detection and croppping. This was done as my CS50x final project.
+
+---
+
+### [nawfalhaddi / CBIR_System](https://github.com/nawfalhaddi/CBIR_System)
+
+Web app with Flask : Content based image retrieval system using Python , OpenCV ( Color Histogram , Haralick Texture)
+
+---
+
+### [PrateekGoyal18 / CV-Learn](https://github.com/PrateekGoyal18/CV-Learn)
+
+A web-based interface for teaching students and fellow enthusiasts the basics of image processing with a practical hands-on approach.
+
+---
+
+### [aurelienmorgan / defect_detection_webservice](https://github.com/aurelienmorgan/defect_detection_webservice)
+
+Surface Defect Detection as a Tensorflow/Keras model microservice container.
+
+---
+
+### [qianshuaikang / my-flask-website-for-GAN](https://github.com/qianshuaikang/my-flask-website-for-GAN)
+
+用python语言编写的借助opencv库的人脸图像裁剪，可以将图片中的人脸裁剪并保存，可以过滤掉一些没有人脸，或者有多个人脸的图片。
+
+---
+
+### [wangderen4 / Django-face_recognition](https://github.com/wangderen4/Django-face_recognition)
+
+本项目后端采用Python作为开发语言，Django作为WEB后端框架，用到的库有face_recognition人脸识别库,keras深度学习库,tensorflow,opencv计算机视觉库,Image等图片处理相关的第三方库。
+
+---
+
+### [aditya-mantri / Face-Mask-Detection](https://github.com/aditya-mantri/Face-Mask-Detection)
+
+A mask face detection model and its integration with web dev. This project was based on computer vision and deep learning, (a part of our mini project). The model is integration between deep learni…
+
+---
+
+### [tapiwamaguwu / VGG16-Image-Detection-using-Flask](https://github.com/tapiwamaguwu/VGG16-Image-Detection-using-Flask)
+
+A web application using Flask and the VGG16 deep learning model. It takes a video (max: 10Mb) and the user supplies the name of any object and the application using the VGG16 model and OpenCV to sp…
+
+---
+
+### [xodhx4 / webcam_image_recognizer](https://github.com/xodhx4/webcam_image_recognizer)
+
+This is simple image classifier for realtime webcam video. It contains pipeline of [record, labeling, train, inference, analysis]
+
+---
+
+### [shawon100 / image-recognition-resnet50-flask](https://github.com/shawon100/image-recognition-resnet50-flask)
+
+Web Based Image Recognition System in Python Flask
+
+---
+
+### [ConorPai / PlantRecognitionWebAPI](https://github.com/ConorPai/PlantRecognitionWebAPI)
+
+接收上传的植物图片，返回识别结果
+
+---
+
+### [pswaldia / AI-Identifies-Crops](https://github.com/pswaldia/AI-Identifies-Crops)
+
+A web application that aims to identify crops images using deep learning and stores necessary data in a database.
+
+---
+
+### [T3KRAJ / Minor-Project-IC](https://github.com/T3KRAJ/Minor-Project-IC)
+
+AI image classification web application
+
+---
+
+### [ManuLasker / ai_pet_webdemo](https://github.com/ManuLasker/ai_pet_webdemo)
+
+Ai Pet web demo using user feedback interface
+
+---
+
+### [TEAM-BIDI / bidi_ai](https://github.com/TEAM-BIDI/bidi_ai)
+
+bidi_ai API server and Web demo
+
+---
+
+### [XZLeo / MobileNet_Web_Application](https://github.com/XZLeo/MobileNet_Web_Application)
+
+Use Flask framework and fine-tunning MobileNet weights from Keras to build an simple AI web application.
+
+---
+
+### [produvia / ai-platform](https://github.com/produvia/ai-platform)
+
+An open-source platform for automating tasks using machine learning models
+
+---
+
+### [KI-labs / kaos](https://github.com/KI-labs/kaos)
+
+open source platform for simplifying machine learning deployment
+
+---
+
+### [genius0182 / djangoAdminPlatform](https://github.com/genius0182/djangoAdminPlatform)
+
+Django back-office management platform, including the RBAC infrastructure
+
+---
+
+### [wangyinzhi1989 / CVIntegratedPlatform](https://github.com/wangyinzhi1989/CVIntegratedPlatform)
+
+一款基于深度学习，提供数据标注、模型训练、模型部署、基于已有模型自动标注等功能的计算机视觉一体化平台。 操作简单，无需深度学习理论即可实现AI落地。处理分类、目标检测、目标跟踪等计算机视觉任务。 应用场景：交通执法（车辆违停、行人乱穿马路等）、工业检测（缺陷检测、物体分拣等）、安防（越界、人员聚集、违禁品、拉横幅等）等领域。
+
+---
+
+### [OSSDC / OSSDC-VisionAI-Core](https://github.com/OSSDC/OSSDC-VisionAI-Core)
+
+OSSDC Vision AI - a platform for live testing and developing of computer vision and artificial intelligence algorithms targeting robotics, home automation and autonomous vechicles
+
+---
+
+### [GoogleCloudPlatform / cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples)
+
+Cloud ML Engine is now a part of AI Platform
+
+---
+
+### [polyaxon / polyaxon](https://github.com/polyaxon/polyaxon)
+
+Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
+
+---
+
+### [mlflow / mlflow](https://github.com/mlflow/mlflow)
+
+Open source platform for the machine learning lifecycle
+
+---
+
+### [Ouadio / DemystifAI](https://github.com/Ouadio/DemystifAI)
+
+An extensible web platform of ML and AI applications & APIs
+
+---
+
+### [Space-Robotics-Laboratory / rlstar](https://github.com/Space-Robotics-Laboratory/rlstar)
+
+RL STaR is a platform for creating AI for robotic applications. Researchers can share their work in the form of new robots or new tasks. Everything was made in a modular fashion to be easy to use a…
+
+---
+
+### [HKU-ICRA / Pulsar](https://github.com/HKU-ICRA/Pulsar)
+
+A reinforcement learning platform for training Robomaster AI Challenge robots to compete autonomously and make decisions via self-play.
+
+---
+
+### [pistarlab / pistarlab](https://github.com/pistarlab/pistarlab)
+
+piSTAR Lab is a modular platform built to make AI experimentation accessible and fun. (pistar.ai)
+
+---
+
+### [aidlearning / AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+
+AidLearning is a powerful mobile development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports OpenCL (GPU+NPU) for high performa…
+
+---
+
+### [herozhou / AI-platform](https://github.com/herozhou/AI-platform)
+
+AI开发者平台。目的是要搭建一个采集视频图像并调用API进行智能化数据标注，训练完成之后进行自动化测试的平台。
+
+---
+
+### [haibozhucloud / flask_sqlite_web](https://github.com/haibozhucloud/flask_sqlite_web)
+
+A sqlite manager that can be used on web, including removing/adding/editing columns or rows. Works with python3, sqlite3, flask, flask_sqlalchemy and flask_bootstrap. Based on the project of 'twald…
+
+---
+
+### [fengzhou / FXTest](https://github.com/fengzhou/FXTest)
+
+基于python flask框架实现的接口自动化测试平台
+
+---
+
+### [githublitao / api_automation_test](https://github.com/githublitao/api_automation_test)
+
+接口自动化测试平台，已停止维护，看心情改改
+
+---
+
+### [Woqurefan / ApiTest](https://github.com/Woqurefan/ApiTest)
+
+接口测试平台-python3+django+requests实现 公众号：测试开发干货 testerhome社团：测试方舟号
+
+---
+
+### [saxix / django-admin-extra-urls](https://github.com/saxix/django-admin-extra-urls)
+
+Single mixin class to easily add buttons on any Django ModelAdmin related page
+
+---
+
+### [ylpxzx / lifeblog](https://github.com/ylpxzx/lifeblog)
+
+为初学Django的朋友提供的入门项目，包括了开发+部署的完整流程，具体参考我的博客:https://blog.csdn.net/qq_42278240/article/details/106278457
+
+---
+
+### [nathanborror / django-basic-apps](https://github.com/nathanborror/django-basic-apps)
+
+Simple prebuilt applications.
+
+---
+
+### [sainisimr / openCv](https://github.com/sainisimr/openCv)
+
+The imageprocessing using OpenCV libraries. The frames of image are obtained using OpenCV which are then used to add certain affects to images. Technologies used: Python, Django, OpenCv libraries, …
+
+---
+
+### [imsks / ImageN](https://github.com/imsks/ImageN)
+
+A Django web app that extracts text from images using OpenCV lib in py.
+
+---
+
+### [paolodavid / Real-time-Object-Detection-Flask-OpenCV-YoloV3](https://github.com/paolodavid/Real-time-Object-Detection-Flask-OpenCV-YoloV3)
+
+Web application for real-time object detection  using Flask , OpenCV, and YoloV3 weights. It uses the COCO Dataset
+
+---
+
+### [diegoinacio / object-detection-flask-opencv](https://github.com/diegoinacio/object-detection-flask-opencv)
+
+Web application for real-time object detection using Flask and OpenCV
+
+---
+
+### [maggieliuzzi / cnn_opencv_image_lensflare_blur](https://github.com/maggieliuzzi/cnn_opencv_image_lensflare_blur)
+
+Uses MobileNetV2 CNN to detect images with lens flare or blur | Training images sourced by web scraping and using the Google Images API | Hosted on a Flask server
+
+---
+
+### [ILasya / YOLOv3-OBJECT-DETECTION-REST-API](https://github.com/ILasya/YOLOv3-OBJECT-DETECTION-REST-API)
+
+An Object Detection Application using YOLOv3 (PyTorch and Django Implementation)
+
+---
+
+### [mtianyan / django-antd-tyadmin](https://github.com/mtianyan/django-antd-tyadmin)
+
+类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动
+
+---
+
+### [Rushit2907 / Number-Plate-Detection](https://github.com/Rushit2907/Number-Plate-Detection)
+
+To detect Number Plates from an image.
+
+---
+
+### [sibtc / django-beginners-guide](https://github.com/sibtc/django-beginners-guide)
+
+A Complete Beginner's Guide to Django - Code Samples
+
+---
+
+### [django-cms / django-filer](https://github.com/django-cms/django-filer)
+
+File and Image Management Application for django
+
+---
+
+### [jazzband / django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
+
+A configurable set of panels that display various debug information about the current request/response.
+
+---
+
+### [encode / django-rest-framework](https://github.com/encode/django-rest-framework)
+
+Web APIs for Django. 
+
+---
+
+### [AngelLiang / flask_web_admin_demo](https://github.com/AngelLiang/flask_web_admin_demo)
+
+flask后台demo
+
+---
+
+### [anshupandey / Deploy_Machine_Learning_Projects](https://github.com/anshupandey/Deploy_Machine_Learning_Projects)
+
+This repository contains the examples of deploying AI, ML models using Python, Django and other techniques.
+
+---
+
+### [manjillama / facial-recognition-python-django](https://github.com/manjillama/facial-recognition-python-django)
+
+Face detection and facial recognition along with recognized persons information fetched from database.
+
+---
+
+### [newpanjing / simpleui_demo](https://github.com/newpanjing/simpleui_demo)
+
+django simpleui demo.
+
+---
+
+### [ngoduykhanh / PowerDNS-Admin](https://github.com/ngoduykhanh/PowerDNS-Admin)
+
+A PowerDNS web interface with advanced features
+
+---
+
+### [feileo / guone](https://github.com/feileo/guone)
+
+ A simple demo automatic recognition web system for buildings based on flask supports two modes of image classification and object detection .
+
+---
+
+### [zylo117 / Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+
+The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+
+---
+
+### [NebuTech / NBMiner](https://github.com/NebuTech/NBMiner)
+
+NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, ZIL, AE, SERO, ERGO
+
+---
+
+### [yankai364 / Object-Detection-Flask-API](https://github.com/yankai364/Object-Detection-Flask-API)
+
+A simple YOLOv3 object detection API in Python (using Flask).
+
+---
+
+### [muhk01 / Yolov5-on-Flask](https://github.com/muhk01/Yolov5-on-Flask)
+
+Running YOLOv5 through web browser using Flask microframework
+
+---
+
+### [Sharpiless / Yolov5-Flask-VUE](https://github.com/Sharpiless/Yolov5-Flask-VUE)
+
+基于Flask开发后端、VUE开发前端框架，在WEB端部署YOLOv5目标检测模型
+
+---
+
+### [v-iashin / WebsiteYOLO](https://github.com/v-iashin/WebsiteYOLO)
+
+The back-end for the YOLOv3 object detector running as a webapp
+
+---
+
+### [yehengchen / Object-Detection-and-Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking)
+
+Object Detection and Multi-Object Tracking
+
+---
+
+### [yoshitomo-matsubara / torchdistill](https://github.com/yoshitomo-matsubara/torchdistill)
+
+A coding-free framework built on PyTorch for reproducible deep learning studies. 20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. !Train…
+
+---
+
+### [airctic / icevision](https://github.com/airctic/icevision)
+
+An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come
+
+---
+
+### [ShuLiu1993 / PANet](https://github.com/ShuLiu1993/PANet)
+
+PANet for Instance Segmentation and Object Detection
+
+---
+
+### [PaddlePaddle / PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+Object detection and instance segmentation toolkit based on PaddlePaddle.
+
+---
+
+### [yhenon / pytorch-retinanet](https://github.com/yhenon/pytorch-retinanet)
+
+Pytorch implementation of RetinaNet object detection.
+
+---
+
+### [sgrvinod / a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+
+SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
+
+---
+
+### [llSourcell / YOLO_Object_Detection](https://github.com/llSourcell/YOLO_Object_Detection)
+
+This is the code for "YOLO Object Detection" by Siraj Raval on Youtube
+
+---
+
+### [ShiQiu0419 / attentions_in_3D_detection](https://github.com/ShiQiu0419/attentions_in_3D_detection)
+
+Investigating Attention Mechanism in 3D Point Cloud Object Detection (3DV 2021)
+
+---
+
+### [shaimaaK / sticky-note-detector](https://github.com/shaimaaK/sticky-note-detector)
+
+SSD mobilebet v1 FPN pretrained model over COCO dataset, trained over sticky-note images dataset i built to detect sticky-notes
+
+---
+
+### [SamuelK87 / Machine-vision-based-defect-detection-in-welding-process](https://github.com/SamuelK87/Machine-vision-based-defect-detection-in-welding-process)
+
+Implementation of automatic computer-aided identification system to recognize different types of welding defects in radiographic images which includes defect detection and classification using Deep…
+
+---
+
+### [misads / AliProducts](https://github.com/misads/AliProducts)
+
+一个通用的图像分类模板，天池/CVPR AliProducts挑战赛 3/688
+
+---
+
+### [misads / cv_template](https://github.com/misads/cv_template)
+
+一个图像复原或分割的统一框架，可以用于去雾![fog](https://github.githubassets.com/images/icons/emoji/unicode/1f32b.png)、去雨![cloud_with_rain](https://github.githubassets.com/images/icons/emoji/unicode/1f327.png)、去模糊、夜景![night_with_stars](https://github.githubassets.com/images/icons/emoji/unicode/1f303.png)复原、超分辨率![space_invader](https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png)、像素级分割等等。
+
+---
+
+### [cocodataset / cocoapi](https://github.com/cocodataset/cocoapi)
+
+COCO API - Dataset @ http://cocodataset.org/
+
+---
+
+### [EddyGao / make_VOC2007](https://github.com/EddyGao/make_VOC2007)
+
+制作自己的VOC2007数据集用于faster-rcnn目标检测模型训练
+
+---
+
+### [misads / easy_detection](https://github.com/misads/easy_detection)
+
+一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Yolo系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等经典网络。
+
+---
+
+### [yenchenlin / DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
+
+Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
+
+---
+
+### [shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR)
+
+Easy-to-use,Modular and Extendible package of deep-learning based CTR models .
+
+---
+
+### [iperov / DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+
+DeepFaceLab is the leading software for creating deepfakes.
+
+---
+
+### [junyanz / pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
+Image-to-Image Translation in PyTorch
+
+---
+
+### [hindupuravinash / the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+A list of all named GANs!
+
+---
+
+### [eriklindernoren / Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+
+Keras implementations of Generative Adversarial Networks.
+
+---
+
+### [nightrome / cocostuff](https://github.com/nightrome/cocostuff)
+
+The official homepage of the COCO-Stuff dataset.
+
+---
+
+### [NVlabs / SPADE](https://github.com/NVlabs/SPADE)
+
+Semantic Image Synthesis with SPADE
+
+---
+
+### [ruotianluo / pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn)
+
+pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)
+
+---
+
+### [chenyuntc / simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
+
+A simplified implemention of Faster R-CNN that replicate performance from origin paper
+
+---
+
+### [aditya-vora / FCHD-Fully-Convolutional-Head-Detector](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)
+
+Code for FCHD - A fast and accurate head detector
+
+---
+
+### [jcjohnson / pytorch-vgg](https://github.com/jcjohnson/pytorch-vgg)
+
+---
+
+### [bobo0810 / PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)
+
+项目注释+论文复现+算法竞赛+Pytorch指北
+
+---
+
+### [bobo0810 / PaperOutline](https://github.com/bobo0810/PaperOutline)
+
+通用论文大纲
+
+---
+
+### [udacity / deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch)
+
+Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
+
+---
+
+### [MorvanZhou / PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+
+Build your neural network easy and fast, 莫烦Python中文教学
+
+---
+
+### [chenyuntc / pytorch-book](https://github.com/chenyuntc/pytorch-book)
+
+PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+
+---
+
+### [zgcr / simpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training)
+
+Training examples and results for ImageNet(ILSVRC2012)/COCO2017/VOC2007+VOC2012 datasets.Include ResNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLO series.
+
+---
+
+### [eriklindernoren / PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+
+PyTorch implementations of Generative Adversarial Networks.
+
+---
+
+### [pyg-team / pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+
+Graph Neural Network Library for PyTorch
+
+---
+
+### [Shathe / MiniNet-v2](https://github.com/Shathe/MiniNet-v2)
+
+Official implementation of MiniNet-v2. MiniNet: An Efficient Semantic Segmentation ConvNet for Real-time Robotic Applications
+
+---
+
+### [ternaus / robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation)
+
+Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
+
+---
+
+### [CVUsers / Auto_maker](https://github.com/CVUsers/Auto_maker)
+
+大家好，这是cv调包侠开源原创项目，您可以特别方便地通过我的auto-Maker实现目标检测数据集的实时生成，包括：实时数据采集、自动标注、转换、增强，并可以直接进行yolov3、yolov4、yolov5、eficientdet等，它可以直接导出到onnx，通过openvino和tensor-RT加速，除了检测外，还支持分类算法，可以在一分钟内完成图像的智能分类。欢迎来star Hello…
+
+---
+
+### [YashNagare / Action-Detection](https://github.com/YashNagare/Action-Detection)
+
+Action-Net is a dataset containing images of 16 different human actions.
+
+---
+
+### [quantumalaviya / U-net-For-Image-Semantic-Segmentation](https://github.com/quantumalaviya/U-net-For-Image-Semantic-Segmentation)
+
+A semantic segmentation model classifies every pixel of a image and creates a mask for every label to detect image.
+
+---
+
+### [ZakiRangwala / Mask-Detector](https://github.com/ZakiRangwala/Mask-Detector)
+
+Built a simple lightweight, object detection program that can determine when someone is wearing a mask or not. Leveraged the object-detection API and TensorFlow framework to train the SSD-mobile ne…
+
+---
+
+### [msracver / Relation-Networks-for-Object-Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection)
+
+Relation Networks for Object Detection
+
+---
+
+### [luokn / ml](https://github.com/luokn/ml)
+
+经典机器学习算法的极简实现
+
+---
+
+### [dgriffiths3 / ml_segmentation](https://github.com/dgriffiths3/ml_segmentation)
+
+Machine learning semantic segmentation - Random Forest, SVM, GBC
+
+---
+
+### [YhQIAO / PointCloudSVMDemo](https://github.com/YhQIAO/PointCloudSVMDemo)
+
+三维点云激光分类（建筑，树木）
+
+---
+
+### [marooncn / Defect-Detection-Classifier](https://github.com/marooncn/Defect-Detection-Classifier)
+
+Visual Defect Detection on Boiler Water Wall Tube Using Small Dataset
+
+---
+
+### [bikz05 / object-detector](https://github.com/bikz05/object-detector)
+
+Object Detection Framework using HOG as descriptor and Linear SVM as classifier.
+
+---
+
+### [HandsomeHans / SVM-classification-localization](https://github.com/HandsomeHans/SVM-classification-localization)
+
+HoG, PCA, PSO, Hard Negative Mining, Sliding Window, Edge Boxes, NMS
+
+---
+
+### [AFAgarap / cnn-svm](https://github.com/AFAgarap/cnn-svm)
+
+An Architecture Combining Convolutional Neural Network (CNN) and Linear Support Vector Machine (SVM) for Image Classification
+
+---
+
+### [Cadene / pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
+
+Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
+
+---
+
+### [andresberejnoi / NetBuilder](https://github.com/andresberejnoi/NetBuilder)
+
+Create fully connected neural networks that can be trained in just a few lines of code
+
+---
+
+### [justincosentino / network-pruning](https://github.com/justincosentino/network-pruning)
+
+Train a very large neural network, then make it very small.
+
+---
+
+### [chuanenlin / drone-net](https://github.com/chuanenlin/drone-net)
+
+2664 images of drones, labeled, with trained YOLO weights. Example project for my article "Tutorial: Build your custom real-time object classifier" on Medium.
+
+---
+
+### [magicleap / SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork)
+
+PyTorch pre-trained model for real-time interest point detection, description, and sparse tracking (https://arxiv.org/abs/1712.07629)
+
+---
+
+### [afunTW / pyqt5-binary-classifier](https://github.com/afunTW/pyqt5-binary-classifier)
+
+A simple tool for pre-labeling the image and classification
+
+---
+
+### [vincentfpgarcia / from-pytorch-to-coreml](https://github.com/vincentfpgarcia/from-pytorch-to-coreml)
+
+A simple guide that explains the steps from training a simple PyTorch image classifier to converting the generated neural network into a CoreML model ready for production
+
+---
+
+### [damianmoore / tensorflow-image-classifier](https://github.com/damianmoore/tensorflow-image-classifier)
+
+Easily train an image classifier and then use it to label/tag other images
+
+---
+
+### [tatsuyah / CNN-Image-Classifier](https://github.com/tatsuyah/CNN-Image-Classifier)
+
+A Simple Deep Neural Network to classify images made with Keras
+
+---
+
+### [oarriaga / paz](https://github.com/oarriaga/paz)
+
+Hierarchical perception library in Python for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition, etc.
+
+---
+
+### [albumentations-team / albumentations](https://github.com/albumentations-team/albumentations)
+
+Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
+
+---
+
+### [waikato-ufdl / wai-annotations](https://github.com/waikato-ufdl/wai-annotations)
+
+Python library for converting annotated datasets into various formats (e.g., image classification, object detection and speech datasets).
+
+---
+
+### [jsbroks / coco-annotator](https://github.com/jsbroks/coco-annotator)
+
+Web-based image segmentation tool for object detection, localization, and keypoints
+
+---
+
+### [xingyizhou / CenterNet](https://github.com/xingyizhou/CenterNet)
+
+Object detection, 3D detection, and pose estimation using center point detection:
+
+---
+
+### [nrsyed / computer-vision](https://github.com/nrsyed/computer-vision)
+
+Various computer vision and OpenCV utilities (Python and C++).
+
+---
+
+### [chainer / chainercv](https://github.com/chainer/chainercv)
+
+ChainerCV: a Library for Deep Learning in Computer Vision
+
+---
+
+### [rocketeerli / Computer-VisionandAudio-Lab](https://github.com/rocketeerli/Computer-VisionandAudio-Lab)
+
+2018秋哈工大视听觉实验
+
+---
+
+### [yzhao062 / anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
+
+Anomaly detection related books, papers, videos, and toolboxes
+
+---
+
+### [wszqkzqk / deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
+
+Deepin Wine for Ubuntu/Debian
+
+---
+
+### [Megvii-BaseDetection / cvpods](https://github.com/Megvii-BaseDetection/cvpods)
+
+All-in-one Toolbox for Computer Vision Research.
+
+---
+
+### [AguilarLagunasArturo / cv-recon](https://github.com/AguilarLagunasArturo/cv-recon)
+
+A computer vision toolkit focused on color detection and feature matching using OpenCV. It allows you to easily start the picamera in case you're using a Raspberry PI
+
+---
+
+### [chsasank / image_features](https://github.com/chsasank/image_features)
+
+Extract deep learning features from images using simple python interface
+
+---
+
+### [andrewdcampbell / OpenCV-Document-Scanner](https://github.com/andrewdcampbell/OpenCV-Document-Scanner)
+
+An interactive document scanner built in Python using OpenCV featuring automatic corner detection, image sharpening, and color thresholding.
+
+---
+
+### [pytoolz / toolz](https://github.com/pytoolz/toolz)
+
+A functional standard library for Python.
+
+---
+
+### [yosinski / deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+
+DeepVis Toolbox
+
+---
+
+### [wkentaro / labelme](https://github.com/wkentaro/labelme)
+
+Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+
+---
+
+### [sunsmarterjie / SDL-Skeleton](https://github.com/sunsmarterjie/SDL-Skeleton)
+
+A toolbox for object skeleton detection, can also be used for edge detection, building extraction and road extraction. TIP (2021)
+
+---
+
+### [PyImageSearch / imutils](https://github.com/PyImageSearch/imutils)
+
+A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+
+---
+
+### [wkentaro / imgviz](https://github.com/wkentaro/imgviz)
+
+Image Visualization Tools (object detection, semantic and instance segmentation)
+
+---
+
+### [Wslsdx / Deep-Learning-Approach-for-Surface-Defect-Detection](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
+
+A Tensorflow implementation of "Segmentation-Based Deep-Learning Approach for Surface-Defect Detection"
+
+---
+
+### [abin24 / Magnetic-tile-defect-datasets.](https://github.com/abin24/Magnetic-tile-defect-datasets.)
+
+dataset of the upcoming paper "Saliency of magnetic tile surface defects"
+
+---
+
+### [khornlund / severstal-steel-defect-detection](https://github.com/khornlund/severstal-steel-defect-detection)
+
+Kaggle Segmentation Challenge
+
+---
+
+### [bleakie / RetinaDetector](https://github.com/bleakie/RetinaDetector)
+
+基于RetinaFace的目标检测方法，适用于人脸、缺陷、小目标、行人等
+
+---
+
+### [phanikmr / Graph-Matching-for-Image-Retrival](https://github.com/phanikmr/Graph-Matching-for-Image-Retrival)
+
+Content based image search using contours of image
+
+---
+
+### [PingjunChen / pycontour](https://github.com/PingjunChen/pycontour)
+
+Contour python toolkit
+
+---
+
+### [gtushar31 / OpenCV](https://github.com/gtushar31/OpenCV)
+
+Color detection, Contour mapping, Detecting holes, Motion detection
+
+---
+
+### [fabianoa / imagelab](https://github.com/fabianoa/imagelab)
+
+---
+
+### [Sleeeepy / ImageLabler](https://github.com/Sleeeepy/ImageLabler)
+
+lightweight image labeling tool based on jupyter notebook
+
+---
+
+### [itisyang / ImageMiniLab](https://github.com/itisyang/ImageMiniLab)
+
+opencv-python 应用
+
+---
+
+### [cyrildiagne / screenpoint](https://github.com/cyrildiagne/screenpoint)
+
+Project an image centroid to another image using OpenCV
+
+---
+
+### [anandpawara / Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation)
+
+The Project is real time application in opencv using first order model
+
+---
+
+### [zykzml7788 / ApiTestFrameWork](https://github.com/zykzml7788/ApiTestFrameWork)
+
+基于Python的接口自动化框架
+
+---
+
+### [mengde0077 / RF-auto-test-demo](https://github.com/mengde0077/RF-auto-test-demo)
+
+公司现用的RF所有测试公共方法及资源组织架构，包括API测试、UI测试、JMeter性能测试 样例，自定义库NdolLibrary、redis、mysql、Opencv、xml、date、appium等公共封装，PAI基础关键字、UI基础关键字、业务组合关键字、常规逻辑的通用封装等内容。并包含大量基础的测试练习demo
+
+---
+
+### [maykinmedia / objects-api](https://github.com/maykinmedia/objects-api)
+
+API and admin interface to manage Objects of certain Objecttypes. An object can be anything whether its a monument, report, tree or a permit.
+
+---
+
+### [mingx9527 / Data_Label_Tools](https://github.com/mingx9527/Data_Label_Tools)
+
+收集整理开源的数据标注工具
+
+---
+
+### [ssfdust / smorest-sfs](https://github.com/ssfdust/smorest-sfs)
+
+Another Batteries Included Flask-Smorest
+
+---
+
+### [debikadutt / Edge-Detection-using-LoG-and-DoG](https://github.com/debikadutt/Edge-Detection-using-LoG-and-DoG)
+
+CSE 573 Computer Vision and Image Processing : Implemented zero crossings of a gray scale image by using Laplacian of Gaussian and Difference of Gaussian
+
+---
+
+### [CodecWang / opencv-python-tutorial](https://github.com/CodecWang/opencv-python-tutorial)
+
+ OpenCV-Python image processing tutorial for beginners
+
+----
+
+### [emilwallner / Coloring-greyscale-images](https://github.com/emilwallner/Coloring-greyscale-images)
+
+Coloring black and white images with deep learning.
+
+---
+
+### [shekkizh / ImageProcessingProjects](https://github.com/shekkizh/ImageProcessingProjects)
+
+Image processing using python and opencv
+
+---
+
+### [aleju / imgaug](https://github.com/aleju/imgaug)
+
+Image augmentation for machine learning experiments.
+
+---
+
+### [lawlite19 / MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)
+
+机器学习算法python实现
+
+---
+
+### [PAIR-code / facets](https://github.com/PAIR-code/facets)
+
+Visualizations for machine learning datasets
+
+---
+
+### [YuePanEdward / Pointcloud_Format_Transformer](https://github.com/YuePanEdward/Pointcloud_Format_Transformer)
+
+A Tool for various point cloud data format transformation for well-known datasets
+
+---
+
+### [HHousen / TransformerSum](https://github.com/HHousen/TransformerSum)
+
+Models to perform neural summarization (extractive and abstractive) using machine learning transformers and a tool to convert abstractive summarization datasets to the extractive task.
+
+---
+
+### [zhouhaoyi / Informer2020](https://github.com/zhouhaoyi/Informer2020)
+
+The GitHub repository for the paper "Informer" accepted by AAAI 2021.
+
+---
+
+### [JNingWei / Image_Algorithm_Toolbox](https://github.com/JNingWei/Image_Algorithm_Toolbox)
+
+
+
+ [ Image Algorithm Toolbox ] : contains labeling tool, resizing tool, image enhancing tool, format conversion tool, image distributing tool. ![four_leaf_clover](https://github.githubassets.com/images/icons/emoji/unicode/1f340.png) [ 图像算法工具箱 ]：包含图片标记工具、图片缩放工具、图片数据增强工具、格式转换工具、图片数据分发工具等。
+
+---
+
+### [puzzledqs / BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
+
+A simple tool for labeling object bounding boxes in images
+
+---
+
+### [NVIDIA / nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
+
+Build and run Docker containers leveraging NVIDIA GPUs
+
+---
+
+### [amusi / PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)
+
+PyTorch从入门到精通
+
+---
+
+### [PaddlePaddle / PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+
+End-to-end image segmentation kit based on PaddlePaddle.
+
+---
+
+### [mdbloice / Augmentor](https://github.com/mdbloice/Augmentor)
+
+Image augmentation library in Python for machine learning.
+
+---
+
+### [Furkan-Gulsen / Blur-Detection-Web-App](https://github.com/Furkan-Gulsen/Blur-Detection-Web-App)
+
+Blur Detection Web App with OpenCV and Flask
+
+---
+
+### [bigeyex / python-adminui](https://github.com/bigeyex/python-adminui)
+
+Write professional web interfaces with Python.
+
+---
+
+### [app-generator / admin-dashboards](https://github.com/app-generator/admin-dashboards)
+
+Admin Dashboards - Open-Source and Free | AppSeed
+
+---
+
+### [flask-api / flask-api](https://github.com/flask-api/flask-api)
+
+Browsable web APIs for Flask.
+
+---
+
+### [google / styleguide](https://github.com/google/styleguide)
+
+Style guides for Google-originated open-source projects
+
+---
+
+### [dusty-nv / jetson-inference](https://github.com/dusty-nv/jetson-inference)
+
+Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+
+---
+
+### [cameronfabbri / Compute-Features](https://github.com/cameronfabbri/Compute-Features)
+
+Computes features for images using various pretrained Tensorflow models
+
+---
+
+### [NVIDIA / FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
+
+Style transfer, deep learning, feature transform
+
+---
+
+### [duxuhao / Feature-Selection](https://github.com/duxuhao/Feature-Selection)
+
+Features selector based on the self selected-algorithm, loss function and validation method
+
+---
+
+### [ColCarroll / imcmc](https://github.com/ColCarroll/imcmc)
+
+Image Markov Chain Monte Carlo
+
+---
+
+### [floydhub / dl-docker](https://github.com/floydhub/dl-docker)
+
+An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+
+---
+
+### [cszn / KAIR](https://github.com/cszn/KAIR)
+
+Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR
+
+---
+
+### [lucidrains / lambda-networks](https://github.com/lucidrains/lambda-networks)
+
+Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
+
+---
+
+### [pytorch / vision](https://github.com/pytorch/vision)
+
+Datasets, Transforms and Models specific to Computer Vision
+
+---
+
+### [njvisionpower / Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset)
+
+Safety helmet wearing detect dataset, with pretrained model
+
+---
+
+### [cvdfoundation / open-images-dataset](https://github.com/cvdfoundation/open-images-dataset)
+
+Open Images is a dataset of ~9 million images that have been annotated with image-level labels and bounding boxes spanning thousands of classes.
+
+---
+
+### [junyanz / BicycleGAN](https://github.com/junyanz/BicycleGAN)
+
+Toward Multimodal Image-to-Image Translation
+
+---
+
+### [openai / image-gpt](https://github.com/openai/image-gpt)
+
+---
+
+### [openai / gym](https://github.com/openai/gym)
+
+A toolkit for developing and comparing reinforcement learning algorithms.
+
+---
+
+### [idealo / image-quality-assessment](https://github.com/idealo/image-quality-assessment)
+
+Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+
+---
+
+### [sczhengyabin / Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)
+
+Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
+
+---
+
+### [idealo / image-super-resolution](https://github.com/idealo/image-super-resolution)
+
+![mag_right](https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png) Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+
+---
+
+### [Tencent / tencent-ml-images](https://github.com/Tencent/tencent-ml-images)
+
+Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
+
+---
+
+### [NVlabs / imaginaire](https://github.com/NVlabs/imaginaire)
+
+NVIDIA PyTorch GAN library with distributed and mixed precision support
+
+---
+
+### [awentzonline / image-analogies](https://github.com/awentzonline/image-analogies)
+
+Generate image analogies using neural matching and blending.
+
+---
+
+### [Image-Py / imagepy](https://github.com/Image-Py/imagepy)
+
+Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy
+
+---
+
+### [WZMIAOMIAO / deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
+
+deep learning for image processing including classification and object-detection etc.
+
+---
+
+### [rwightman / pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+
+PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+
+---
+
+### [scikit-image / scikit-image](https://github.com/scikit-image/scikit-image)
+
+Image processing in Python
+
+---
+
+### [OlafenwaMoses / ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+
+A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
+
+---
+
+### [Alying / Fire-Detector](https://github.com/Alying/Fire-Detector)
+
+Detects the sizes of possible wildfires and the rate at which those fires are growing using Computer Vision/OpenCV. Gives a pre-emptive warning (phone alerts) to nearby individuals using Twilio. Ha…
+
+---
+
+### [karolzak / boxdetect](https://github.com/karolzak/boxdetect)
+
+BoxDetect is a Python package based on OpenCV which allows you to easily detect rectangular shapes like character or checkbox boxes on scanned forms.
+
+---
+
+### [nipunmanral / Object-Detection-using-OpenCV](https://github.com/nipunmanral/Object-Detection-using-OpenCV)
+
+Object Detection in images using Selective Search and EdgeBoxes algorithm
+
+---
+
+### [atharva-18 / Object-Detection-API](https://github.com/atharva-18/Object-Detection-API)
+
+A django web-app that provides object detection using YOLOv3 and an API.
+
+---
+
+### [iArunava / YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV)
+
+This project implements a real-time image and video object detection classifier using pretrained yolov3 models.
+
+---
+
+### [bcsefercik / PanoramaviaFeatures](https://github.com/bcsefercik/PanoramaviaFeatures)
+
+This project aims to generate panoramic images from multiple images via features. Implemented with Python 3 and OpenCV 3.
+
+---
+
+### [magesh-technovator / feature-matching-opencv-python](https://github.com/magesh-technovator/feature-matching-opencv-python)
+
+Image key points Extraction, Description, Feature Matching
+
+---
+
+### [datitran / object_detector_app](https://github.com/datitran/object_detector_app)
+
+Real-Time Object Recognition App with Tensorflow and OpenCV
+
+---
+
+### [ayanavasarkar / Multiple_image_stitching](https://github.com/ayanavasarkar/Multiple_image_stitching)
+
+A Python and OpenCV implementation of Image Stitching using Brute Force Matcher and ORB feature descriptures.
+
+---
+
+### [whoisraibolt / Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching)
+
+Feature Detection and Matching with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK through the Brute Force and FLANN algorithms using Python and OpenCV.
+
+---
+
+### [sail-sg / volo](https://github.com/sail-sg/volo)
+
+VOLO: Vision Outlooker for Visual Recognition
+
+---
+
+### [cvlab-epfl / LabelGrab](https://github.com/cvlab-epfl/LabelGrab)
+
+Annotation tool for semantic and instance segmentation, with automated help from the GrabCut implemented in OpenCV.
+
+---
+
+### [PaddlePaddle / PaddleX](https://github.com/PaddlePaddle/PaddleX)
+
+PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
+
+---
+
+### [virajmavani / semi-auto-image-annotation-tool](https://github.com/virajmavani/semi-auto-image-annotation-tool)
+
+Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
+
+---
+
+### [lakshayg / tensorflow-build](https://github.com/lakshayg/tensorflow-build)
+
+TensorFlow binaries supporting AVX, FMA, SSE
+
+---
+
+### [ZhongFuCheng3y / 3y](https://github.com/ZhongFuCheng3y/3y)
+
+![notebook](https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png)从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
+
+---
+
+### [open-mmlab / mmocr](https://github.com/open-mmlab/mmocr)
+
+OpenMMLab Text Detection, Recognition and Understanding Toolbox
+
+---
+
+### [dyh / opencv_tools](https://github.com/dyh/opencv_tools)
+
+一键预览 OpenCV 60 种图像效果，图像预处理 pipeline 工具
+
+---
+
+### [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+![link](https://github.githubassets.com/images/icons/emoji/unicode/1f517.png) Some useful websites for programmers.
+
+---
+
+### [openimages / dataset](https://github.com/openimages/dataset)
+
+The Open Images dataset
+
+---
+
+### [tzutalin / labelImg](https://github.com/tzutalin/labelImg)
+
+![crayon](https://github.githubassets.com/images/icons/emoji/unicode/1f58d.png) LabelImg is a graphical image annotation tool and label object bounding boxes in images
+
+---
+
+### [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+
+pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+
+---
+
+### [pytorch / pytorch](https://github.com/pytorch/pytorch)
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+---
+
+### [ultralytics / yolov5](https://github.com/ultralytics/yolov5)
+
+YOLOv5 ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) in PyTorch > ONNX > CoreML > TFLite
+
+ Python [ 17,577 ](https://github.com/ultralytics/yolov5/stargazers)[ 6,113 ](https://github.com/ultralytics/yolov5/network/members)Updated 12 hours ago
+
+---
+
+### [MingchaoZhu / InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
+
+《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
+
+---
+
+### [fengdu78 / WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)
+
+温州大学《机器学习》课程资料（代码、课件等）
+
+---
+
+### [fengdu78 / Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+
+数据科学的笔记以及资料搜集
+
+---
+
+### [aaronlou / DataScienceProject](https://github.com/aaronlou/DataScienceProject)
+
+---
+
+### [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+---
+
+### [Akshay090 / colab-cli](https://github.com/Akshay090/colab-cli)
+
+![sparkles](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)Experience better workflow with google colab, local jupyter notebooks and git
+
+---
+
+### [flashlight / flashlight](https://github.com/flashlight/flashlight)
+
+A C++ standalone library for machine learning
+
+---
+
+### [AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+Roadmap to becoming an Artificial Intelligence Expert in 2021
+
+---
+
+### [jxingm / Interview-Notes](https://github.com/jxingm/Interview-Notes)
+
+包含机器学习、深度学习、图像处理、c++等视觉算法岗面试必备基础知识
+
+---
+
+### [shenhliu / Fuck-SJTU-ML-Exam](https://github.com/shenhliu/Fuck-SJTU-ML-Exam)
+
+该仓库面向SJTU SE-125 机器学习 的期末考试.这个仓库主要记录了个人根据老师提供的考纲文档 整理的笔记。 其中大部分都是根据文档上网查阅资料并copy的，夹带有一定私货。 仓库中整理的文档与老师上课的slides关系不大（因为我真的看不懂那么多公式推导）。希望这些文档可以给自己和大家都带来一些帮助。
+
+---
+
+### [apachecn / apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh)
+
+ApacheCN 深度学习译文集
+
+---
+
+### [Relph1119 / QuestForMachineLearning-Camp](https://github.com/Relph1119/QuestForMachineLearning-Camp)
+
+深度之眼《百面机器学习》训练营
+
+---
+
+### [zhanwen / MathModel](https://github.com/zhanwen/MathModel)
+
+研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
+
+---
+
+### [amusi / Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
+
+深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+
+---
+
+##  REPOSITORIES
+
+<details class="details-overlay details-reset position-absolute top-0 right-0" style="box-sizing: border-box; display: block; position: absolute !important; top: 0px !important; right: 0px !important;"><summary aria-label="Show filters" aria-haspopup="menu" role="button" style="box-sizing: border-box; display: list-item; cursor: pointer; list-style: none;"><span class="btn-link f6" style="box-sizing: border-box; display: inline-block; padding: 0px; font-size: 12px !important; color: var(--color-accent-fg); text-decoration: none; white-space: nowrap; cursor: pointer; user-select: none; background-color: transparent; border: 0px; appearance: none;">Filters<span>&nbsp;</span><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down ml-1 v-align-text-bottom"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg></span></summary></details>
+
+### [fengdu78 / WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)
+
+Unstar
+
+温州大学《机器学习》课程资料（代码、课件等）
+
+ Jupyter Notebook [ 646 ](https://github.com/fengdu78/WZU-machine-learning-course/stargazers)[ 238 ](https://github.com/fengdu78/WZU-machine-learning-course/network/members)Updated 4 days ago
+
+### [fengdu78 / Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+
+Unstar
+
+数据科学的笔记以及资料搜集
+
+ Jupyter Notebook [ 5,866 ](https://github.com/fengdu78/Data-Science-Notes/stargazers)[ 2,541 ](https://github.com/fengdu78/Data-Science-Notes/network/members)Updated on 16 Aug
+
+### [aaronlou / DataScienceProject](https://github.com/aaronlou/DataScienceProject)
+
+Star
+
+ Jupyter Notebook [ 8 ](https://github.com/aaronlou/DataScienceProject/stargazers)[ 8 ](https://github.com/aaronlou/DataScienceProject/network/members)Updated on 18 May 2020
+
+### [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+
+Unstar
+
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+[ 18,523 ](https://github.com/datawhalechina/pumpkin-book/stargazers)[ 4,199 ](https://github.com/datawhalechina/pumpkin-book/network/members)Updated 9 days ago
+
+### [Akshay090 / colab-cli](https://github.com/Akshay090/colab-cli)
+
+Star
+
+![sparkles](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)Experience better workflow with google colab, local jupyter notebooks and git
+
+ Python [ 95 ](https://github.com/Akshay090/colab-cli/stargazers)[ 9 ](https://github.com/Akshay090/colab-cli/network/members)Updated on 27 Apr 2020
+
+### [flashlight / flashlight](https://github.com/flashlight/flashlight)
+
+Unstar
+
+A C++ standalone library for machine learning
+
+ C++ [ 3,962 ](https://github.com/flashlight/flashlight/stargazers)[ 357 ](https://github.com/flashlight/flashlight/network/members)Updated 4 days ago
+
+### [AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+Unstar
+
+Roadmap to becoming an Artificial Intelligence Expert in 2021
+
+ JavaScript [ 15,022 ](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers)[ 1,305 ](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/network/members)Updated on 16 Apr
+
+### [jxingm / Interview-Notes](https://github.com/jxingm/Interview-Notes)
+
+Unstar
+
+包含机器学习、深度学习、图像处理、c++等视觉算法岗面试必备基础知识
+
+[ 165 ](https://github.com/jxingm/Interview-Notes/stargazers)[ 57 ](https://github.com/jxingm/Interview-Notes/network/members)Updated on 9 Oct 2019
+
+### [shenhliu / Fuck-SJTU-ML-Exam](https://github.com/shenhliu/Fuck-SJTU-ML-Exam)
+
+Star
+
+该仓库面向SJTU SE-125 机器学习 的期末考试.这个仓库主要记录了个人根据老师提供的考纲文档 整理的笔记。 其中大部分都是根据文档上网查阅资料并copy的，夹带有一定私货。 仓库中整理的文档与老师上课的slides关系不大（因为我真的看不懂那么多公式推导）。希望这些文档可以给自己和大家都带来一些帮助。
+
+[ 32 ](https://github.com/shenhliu/Fuck-SJTU-ML-Exam/stargazers)[ 1 ](https://github.com/shenhliu/Fuck-SJTU-ML-Exam/network/members)Updated on 24 Dec 2020
+
+### [apachecn / apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh)
+
+Unstar
+
+ApacheCN 深度学习译文集
+
+ JavaScript [ 352 ](https://github.com/apachecn/apachecn-dl-zh/stargazers)[ 95 ](https://github.com/apachecn/apachecn-dl-zh/network/members)Updated on 13 Aug
+
+### [Relph1119 / QuestForMachineLearning-Camp](https://github.com/Relph1119/QuestForMachineLearning-Camp)
+
+Star
+
+深度之眼《百面机器学习》训练营
+
+ Jupyter Notebook [ 52 ](https://github.com/Relph1119/QuestForMachineLearning-Camp/stargazers)[ 17 ](https://github.com/Relph1119/QuestForMachineLearning-Camp/network/members)Updated on 25 Nov 2019
+
+### [zhanwen / MathModel](https://github.com/zhanwen/MathModel)
+
+Unstar
+
+研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
+
+ TeX [ 3,698 ](https://github.com/zhanwen/MathModel/stargazers)[ 1,367 ](https://github.com/zhanwen/MathModel/network/members)Updated 7 days ago
+
+### [amusi / Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
+
+Star
+
+深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+
+[ 3,503 ](https://github.com/amusi/Deep-Learning-Interview-Book/stargazers)[ 822 ](https://github.com/amusi/Deep-Learning-Interview-Book/network/members)Updated on 23 Aug
+
+### [fighting41love / funNLP](https://github.com/fighting41love/funNLP)
+
+中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、…
+
+---
+
+### [NLP-LOVE / ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+
+此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+
+---
+
+### [enwan / MVision](https://github.com/Ewenwan/MVision)
+
+机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+
+---
+
+### [neofung / XMU_master_and_doctor_degree_thesis](https://github.com/neofung/XMU_master_and_doctor_degree_thesis)
+
+厦门大学硕士博士毕业论文模板
+
+---
+
+### [zhanghai / zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template)
+
+浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板
+
+---
+
+### [yunwei37 / ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes)
+
+一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
+
+---
+
+### [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles)
+
+浙江大学课程攻略共享计划
+
+---
+
+### [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io)
+
+《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+
+---
+
+### [hangtwenty / dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+
+Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+
+---
+
+### [josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+A curated list of awesome Machine Learning frameworks, libraries and software.
+
+---
+
+### [apachecn / ntu-hsuantienlin-ml](https://github.com/apachecn/ntu-hsuantienlin-ml)
+
+![book](https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png) 台湾大学林轩田机器学习笔记
+
+---
+
+### [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+
+---
+
+### [zhjunqin / MachineLearning](https://github.com/zhjunqin/MachineLearning)
+
+机器学习基础
+
+---
+
+### [WenDesi / lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
+
+致力于将李航博士《统计学习方法》一书中所有算法实现一遍
+
+---
+
+### [Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+
+手写实现李航《统计学习方法》书中全部算法
+
+---
+
+### [heilongjianguniversity / AI-Team](https://github.com/heilongjianguniversity/AI-Team)
+
+清华大学AI自强项目课件以及代码下载，黑龙江大学机器学习小组学习历程。@清华大学数据院，感谢他们的课件以及源码
+
+---
+
+### [ramonzhan / MechineLearningClassProject](https://github.com/ramonzhan/MechineLearningClassProject)
+
+南开大学人工智能学院机器学习课程作业记录
+
+---
+
+### [lb290 / TYD_machine_learning](https://github.com/lb290/TYD_machine_learning)
+
+唐宇迪-机器学习课程
+
+---
+
+### [Fafa-DL / Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)
+
+李宏毅2021春季机器学习课程课件及作业
+
+---
+
+### [Ming-Lian / Machine-Learning-Course-in-UCAS](https://github.com/Ming-Lian/Machine-Learning-Course-in-UCAS)
+
+国科大机器学习课程&机器学习笔记
+
+---
+
+### [TingNie / Coursera-ML-using-matlab-python](https://github.com/TingNie/Coursera-ML-using-matlab-python)
+
+coursera吴恩达机器学习课程作业自写Python版本+Matlab原版
+
+---
+
+### [yuanxiaosc / Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book)
+
+《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！
+
+---
+
+### [Doraemonzzz / ML-Foundation-and-ML-Techniques](https://github.com/Doraemonzzz/ML-Foundation-and-ML-Techniques)
+
+台大机器学习课程作业详解
+
+---
+
+### [susongzhi / machine-learning-notes](https://github.com/susongzhi/machine-learning-notes)
+
+My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (1500+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
+
+---
+
+### [towerjoo / myML](https://github.com/towerjoo/myML)
+
+---
+
+### [ljpzzz / machinelearning](https://github.com/ljpzzz/machinelearning)
+
+My blogs and code for machine learning. http://cnblogs.com/pinard
+
+---
+
+### [Vay-keen / Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
+
+周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+
+---
+
+### [sangyx / deep-finance](https://github.com/sangyx/deep-finance)
+
+Datasets, papers and books on AI & Finance.
+
+---
+
+### [MakerGYT / cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next)
+
+next-theme博客园论文主题
+
+---
+
+### [dpilger26 / NumCpp](https://github.com/dpilger26/NumCpp)
+
+C++ implementation of the Python Numpy library
+
+---
+
+### [floodsung / Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
+---
+
+### [lotabout / write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
+
+Write a simple interpreter of C. Inspired by c4 and largely based on it.
+
+---
+
+### [imcoderlemon / CodeClass](https://github.com/imcoderlemon/CodeClass)
+
+「编程技术学习指南」学习路线+学习资源。从编程小白到架构师，所有你需要掌握的内容都在这里
+
+---
+
+### [bxtkezhan / BAR4Py](https://github.com/bxtkezhan/BAR4Py)
+
+百晓通客栈Python增强现实开发环境
+
+---
+
+### [niudai / How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+
+I'm here to tell you some amazing stuff which teacher would never tell you.
+
+---
+
+### [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+![books](https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png) 免费的计算机编程类中文书籍，欢迎投稿
+
+---
+
+### [crisxuan / bestJavaer](https://github.com/crisxuan/bestJavaer)
+
+这是一个成为更好的Java程序员的系列教程
+
+---
+
+### [geekxh / hello-algorithm](https://github.com/geekxh/hello-algorithm)
+
+![earth_africa](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png) 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，![rose](https://github.githubassets.com/images/icons/emoji/unicode/1f339.png)感谢~）
+
+---
+
+### [azl397985856 / leetcode](https://github.com/azl397985856/leetcode)
+
+LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+---
+
+### [anbingxu666 / WangDao-DataStructure](https://github.com/anbingxu666/WangDao-DataStructure)
+
+《数据结构》经典算法代码
+
+---
+
+### [callmePicacho / Data-Structres](https://github.com/callmePicacho/Data-Structres)
+
+浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
+
+---
+
+### [wangzheng0822 / algo](https://github.com/wangzheng0822/algo)
+
+数据结构和算法必知必会的50个代码实现
+
+---
+
+### [luyishisi / Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)
+
+越来越多的网站具有反爬虫特性，有的用图片隐藏关键数据，有的使用反人类的验证码，建立反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。（欢迎提交难以采集的网站）（因工作原因，项目暂停）
+
+---
+
+### [jwasham / computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards)
+
+Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+---
+
+### [Ubpa / UGM](https://github.com/Ubpa/UGM)
+
+Ubpa Graphics Mathematics
+
+---
+
+### [jenly1314 / ZXingLite](https://github.com/jenly1314/ZXingLite)
+
+![fire](https://github.githubassets.com/images/icons/emoji/unicode/1f525.png) ZXing的精简版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
+
+---
+
+### [JoeyDeVries / LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+
+Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
+
+---
+
+### [alibaba / graph-learn](https://github.com/alibaba/graph-learn)
+
+An Industrial Graph Neural Network Framework
+
+---
+
+### [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyon
+
+---
+
+### [CMU-Perceptual-Computing-Lab / openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+
+---
+
+### [haoel / leetcode](https://github.com/haoel/leetcode)
+
+LeetCode Problems' Solutions
+
+---
+
+### [spmallick / learnopencv](https://github.com/spmallick/learnopencv)
+
+Learn OpenCV : C++ and Python Examples
+
+---
+
+### [opencv / opencv](https://github.com/opencv/opencv)
+
+Open Source Computer Vision Library
+
+---
+
+### [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
+Python - 100天从新手到大师
+
+---
+
+### [teadocs / numpy-cn](https://github.com/teadocs/numpy-cn)
+
+NumPy官方中文文档（完整版）
+
+---
+
+### [labuladong / fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+
+刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
+---
+
+### [yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+
+PyTorch Tutorial for Deep Learning Researchers
+
+---
+
+### [janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
+
+MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+---
+
+### [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)
+
+Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+
+---
+
+### [zh-google-styleguide / zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+
+Google 开源项目风格指南 (中文版)
+
+---
+
+### [huihut / interview](https://github.com/huihut/interview)
+
+ C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, in…
+
+---
+
+### [csseky / cskaoyan](https://github.com/csseky/cskaoyan)
+
+提供计算机考研和软件工程考研专业的各个学校 考研真题
+
+---
+
+### [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
+人人都能用英语
+
+---
+
+### [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
+A complete computer science study plan to become a software engineer.
+
+---
+
+### [izackwu / TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN)
+
+TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 
 ---
 
