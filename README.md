@@ -1,6 +1,28 @@
-MyStarRepo
+## MyStarRepo
 
 GitHub collection
+
+
+
+### [Zheyu-Zhuang / SlidingWindowDetectionNN](https://github.com/Zheyu-Zhuang/SlidingWindowDetectionNN)
+
+This is a simple detection classification network. The network is converted from a classification network using sliding window technique. This network is able to be trained on cpu under 10 mins.
+
+---
+
+### [HandsomeHans / SVM-classification-localization](https://github.com/HandsomeHans/SVM-classification-localization)
+
+HoG, PCA, PSO, Hard Negative Mining, Sliding Window, Edge Boxes, NMS
+
+---
+
+### [yzhao062 / anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
+
+Anomaly detection related books, papers, videos, and toolboxes
+
+---
+
+### [ExtremeMart / ev_sdk](https://github.com/ExtremeMart/ev_sdk)
 
 
 ---
