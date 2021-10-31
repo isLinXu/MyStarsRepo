@@ -22,6 +22,76 @@ Anomaly detection related books, papers, videos, and toolboxes
 
 ---
 
+### [ucla-mobility / OpenCDA](https://github.com/ucla-mobility/OpenCDA)
+
+A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
+
+---
+
+### [erwincoumans / puppersim](https://github.com/erwincoumans/puppersim)
+
+Simulation for DJI Pupper v2 robot
+
+---
+
+### [jesseweisberg / moveo_ros](https://github.com/jesseweisberg/moveo_ros)
+
+ROS packages and Arduino scripts that can be used to control the BCN3D Moveo robotic arm in simulation and real-life.
+
+---
+
+### [maximecb / gym-miniworld](https://github.com/maximecb/gym-miniworld)
+
+Simple 3D interior simulator for RL & robotics research
+
+---
+
+### [ARISE-Initiative / robosuite](https://github.com/ARISE-Initiative/robosuite)
+
+robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
+
+---
+
+### [BitsRobocon / Quadruped-DIPLOID](https://github.com/BitsRobocon/Quadruped-DIPLOID)
+
+Developing a four-legged Quadruped robot 'DIPLOID' with stable walking by reinforced learning on bezier gait and terrain awareness using SLAM technique as a part of long-term project undertaken by …
+
+---
+
+### [paddepadde / nao_walking_ppo](https://github.com/paddepadde/nao_walking_ppo)
+
+Learning (simulated) robot locomotion with RL and Proximate Policy Optimization (PPO),
+
+---
+
+### [Laixer / QuadrupedWalkingRL](https://github.com/Laixer/QuadrupedWalkingRL)
+
+Training a robot to walk using reinforcement learning
+
+---
+
+### [haruki1526 / LectureOfProbabilisticRobotics](https://github.com/haruki1526/LectureOfProbabilisticRobotics)
+
+Codes for lectures in 2018, ... and for a book
+
+---
+
+### [mangdangroboticsclub / QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot)
+
+Open-Source,ROS Robot Dog Kit
+
+---
+
+### [GistNoesis / OpenDogSimulator](https://github.com/GistNoesis/OpenDogSimulator)
+
+Simulation for the Open Dog project
+
+---
+
+### [XRobots / openDog](https://github.com/XRobots/openDog)
+
+CAD and code for each episode of my open source dog series
+
 ### [ExtremeMart / ev_sdk](https://github.com/ExtremeMart/ev_sdk)
 
 

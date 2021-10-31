@@ -1,5 +1,15 @@
 
 
+[![@DerrickXuNu](https://avatars.githubusercontent.com/u/63629611?s=100&v=4)](https://github.com/DerrickXuNu)
+
+[Runsheng Xu DerrickXuNu](https://github.com/DerrickXuNu)
+
+UCLA PHD candidate, Former Senior Machine Learning Engineer in Mercedes Benz R&D North America
+
+ @UCLA @Mercedes-Benz @Northwestern LA
+
+---
+
 [![@oneTaken](https://avatars.githubusercontent.com/u/18045872?s=100&v=4)](https://github.com/oneTaken)
 
 [oneTaken](https://github.com/oneTaken)
