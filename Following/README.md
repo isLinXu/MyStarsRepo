@@ -1,3 +1,51 @@
+## Following
+
+---
+
+[![@extreme-assistant](https://avatars.githubusercontent.com/u/23378199?s=100&v=4)](https://github.com/extreme-assistant)
+
+[CVMart extreme-assistant](https://github.com/extreme-assistant)
+
+面向视觉算法开发者的极市社区，微信公众号:极市平台（extrememart)
+
+ Extreme Vision Limited Shenzhen,china
+
+---
+
+[![@donnemartin](https://avatars.githubusercontent.com/u/5458997?s=100&v=4)](https://github.com/donnemartin)
+
+[Donne Martin donnemartin](https://github.com/donnemartin)
+
+Tech Lead [@facebook](https://github.com/facebook)
+
+ @facebook Washington, D.C.
+
+---
+
+[![@fb029ed](https://avatars.githubusercontent.com/u/55319727?s=100&v=4)](https://github.com/fb029ed)
+
+[fb029ed fb029ed](https://github.com/fb029ed)
+
+ HITsz shenzhen China
+
+---
+
+[![@ShreyasKudari](https://avatars.githubusercontent.com/u/39940791?s=100&v=4)](https://github.com/ShreyasKudari)
+
+[Shreyas Kudari ShreyasKudari](https://github.com/ShreyasKudari)
+
+Undergraduate senior at UT Austin. Interested in ML+Systems, Cloud, Computer Vision, and HPC
+
+---
+
+[![@IanYangChina](https://avatars.githubusercontent.com/u/37257202?s=100&v=4)](https://github.com/IanYangChina)
+
+[XT_Yang IanYangChina](https://github.com/IanYangChina)
+
+PhD Student at Cardiff Univ., UK. Research topic: Task-oriented Robotic Grasping, Deep Reinforcement Learning.
+
+---
+
 
 
 [![@DerrickXuNu](https://avatars.githubusercontent.com/u/63629611?s=100&v=4)](https://github.com/DerrickXuNu)
