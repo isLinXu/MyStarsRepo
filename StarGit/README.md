@@ -2,6 +2,432 @@
 
 GitHub collection
 
+
+
+
+
+---
+
+### [MachineLearningJournalClub / Lectures](https://github.com/MachineLearningJournalClub/Lectures)
+
+Lectures on Python
+
+---
+
+### [MachineLearningJournalClub / MLJC-UniTo-ProjectX-2020-public](https://github.com/MachineLearningJournalClub/MLJC-UniTo-ProjectX-2020-public)
+
+Public repository for the proposal “Physics-Informed Machine Learning Simulator for Wildfire Propagation” - MLJC University of Turin - ProjectX2020 Competition (UofT AI)
+
+---
+
+### [Rabi1999 / SMART-SMOKE-DETECTION-ALARM-USING-ARDUINO-PYTHON-AND-MQ2-SMOKE-SENSOR.-PYTHON-VOICE-ALARM](https://github.com/Rabi1999/SMART-SMOKE-DETECTION-ALARM-USING-ARDUINO-PYTHON-AND-MQ2-SMOKE-SENSOR.-PYTHON-VOICE-ALARM)
+
+THE AIM OF THE PROJECT IS TO MAKE A SMART SMOKE OR FIRE ALARM. ARDUINO UNO AND PYTHON CODE IS USED TO MAKE THIS . THE CODE LINK IS GIVEN BELOW . PYTHON CODE IS USED TO MAKE VOICE ALARM IT TAKES THE…
+
+---
+
+### [Project-X-UBC / smoke-detection-net](https://github.com/Project-X-UBC/smoke-detection-net)
+
+Pipeline to train a multi-label smoke detection network. Code submission for the ProjectX 2020 machine learning competition.
+
+---
+
+### [NEUdeep / domain-adaption](https://github.com/NEUdeep/domain-adaption)
+
+---
+
+### [edipizarro / YoloV5-Deepsort-JetsonNano](https://github.com/edipizarro/YoloV5-Deepsort-JetsonNano)
+
+---
+
+### [zhaowujie / D2T-T2D.pytorch](https://github.com/zhaowujie/D2T-T2D.pytorch)
+
+A Pytorch Implementation of Detect to Track and Track to Detect
+
+---
+
+### [NEUdeep / MOC-Detector-Pytorch1.4](https://github.com/NEUdeep/MOC-Detector-Pytorch1.4)
+
+update code for pytorch1.4
+
+---
+
+### [TD-4 / anodet](https://github.com/TD-4/anodet)
+
+Anomaly detection on images using features from pretrained neural networks.
+
+---
+
+### [seasalt-ai / snowboy](https://github.com/seasalt-ai/snowboy)
+
+DNN based hotword and wake word detection toolkit (model generation included)
+
+---
+
+### [Aculeasis / snowboy-pmdls](https://github.com/Aculeasis/snowboy-pmdls)
+
+Snowboy own personal models trainer in Docker container
+
+---
+
+### [luoqiuluoqiu / note](https://github.com/luoqiuluoqiu/note)
+
+日常收集的资料和代码
+
+---
+
+### [erwincoumans / pybullet_robots](https://github.com/erwincoumans/pybullet_robots)
+
+Prototyping robots for PyBullet (F1/10 MIT Racecar, Sawyer, Baxter and Dobot arm, Boston Dynamics Atlas and Botlab environment)
+
+---
+
+### [asingleneuron / hackathons_solution](https://github.com/asingleneuron/hackathons_solution)
+
+Find the solution of machine learning competitions I am participating.
+
+---
+
+### [AillisInc / ml_competition_platform](https://github.com/AillisInc/ml_competition_platform)
+
+Kaggle-like machine learning competition platform
+
+---
+
+### [mli / paper-reading](https://github.com/mli/paper-reading)
+
+深度学习经典、新论文逐段精读
+
+---
+
+### [dog-qiuqiu / Ultralight-SimplePose](https://github.com/dog-qiuqiu/Ultralight-SimplePose)
+
+Ultra-lightweight human body posture key point CNN model. ModelSize:2.3MB HUAWEI P40 NCNN benchmark: 6ms/img,
+
+---
+
+### [chiolao / Mountain_Fire_And_Smoke_Detector](https://github.com/chiolao/Mountain_Fire_And_Smoke_Detector)
+
+A simple application to help people detect the mountain fire in a large scope
+
+---
+
+### [xiedidan / fire-smoke-detection](https://github.com/xiedidan/fire-smoke-detection)
+
+fire and smoke detection based on CNN
+
+---
+
+### [luoqiuluoqiu / Developer-Books](https://github.com/luoqiuluoqiu/Developer-Books)
+
+编程开发相关书籍整理分享，持续更新...
+
+---
+
+### [luoqiuluoqiu / Yolo-pytorch](https://github.com/luoqiuluoqiu/Yolo-pytorch)
+
+---
+
+### [msnh2012 / Msnhnet](https://github.com/msnh2012/Msnhnet)
+
+(yolov3 yolov4 yolov5 unet ...)A mini pytorch inference framework which inspired from darknet.
+
+---
+
+### [tztztztztz / yolov2.pytorch](https://github.com/tztztztztz/yolov2.pytorch)
+
+YOLOv2 algorithm reimplementation with pytorch
+
+---
+
+### [zbh2047 / clipping-algorithms](https://github.com/zbh2047/clipping-algorithms)
+
+A Pytorch(1.4.0) implementation for training neural networks with clipping algorithms on various datasets.
+
+---
+
+### [dollking / pytorch_template](https://github.com/dollking/pytorch_template)
+
+deep learning code template using pytorch 1.4.0
+
+---
+
+### [Ugenteraan / YOLOv2-PyTorch](https://github.com/Ugenteraan/YOLOv2-PyTorch)
+
+Implementation of YOLO Version 2 in Pytorch 1.4
+
+---
+
+### [longyueying / DataToolboxes](https://github.com/longyueying/DataToolboxes)
+
+tools for data analysis and processing
+
+---
+
+### [yzhang123 / stairs_detection](https://github.com/yzhang123/stairs_detection)
+
+---
+
+### [hzwer / shareOI](https://github.com/hzwer/shareOI)
+
+算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
+
+---
+
+### [yanghuan / proton](https://github.com/yanghuan/proton)
+
+Export excel to xml, json, lua, etc., and automatically generate the read code.
+
+---
+
+### [Shusaku1031 / YOLO_on_Jetson](https://github.com/Shusaku1031/YOLO_on_Jetson)
+
+---
+
+### [DmitryUlyanov / deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)
+
+Image restoration with neural networks but without learning.
+
+---
+
+### [luliyucoordinate / YOLOv2-pytorch](https://github.com/luliyucoordinate/YOLOv2-pytorch)
+
+Implement YOLOv2 with pytorch
+
+---
+
+### [Bugdragon / YOLO_v3_PyTorch](https://github.com/Bugdragon/YOLO_v3_PyTorch)
+
+使用PyTorch实现基于YOLOv3的目标检测器
+
+---
+
+### [XiaoMi / mace-models](https://github.com/XiaoMi/mace-models)
+
+Mobile AI Compute Engine Model Zoo
+
+---
+
+### [BobLiu20 / YOLOv3_PyTorch](https://github.com/BobLiu20/YOLOv3_PyTorch)
+
+Full implementation of YOLOv3 in PyTorch
+
+---
+
+### [hunglc007 / tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
+
+YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
+
+---
+
+### [zzh8829 / yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
+
+YoloV3 Implemented in Tensorflow 2.0
+
+---
+
+### [Monologuethl / yolov4-pytorch-16bit](https://github.com/Monologuethl/yolov4-pytorch-16bit)
+
+在https://github.com/bubbliiiing/yolov4-pytorch 的基础上增加了16位图像的训练
+
+---
+
+### [HuangCongQing / 3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds)
+
+3D点云目标检测&语义分割-SOTA方法,代码,论文,数据集等
+
+---
+
+### [amov-lab / Prometheus](https://github.com/amov-lab/Prometheus)
+
+Open source software for autonomous drones.
+
+---
+
+### [cangermueller / deepcpg_legacy](https://github.com/cangermueller/deepcpg_legacy)
+
+Deep neural network for predicting methylation states of single cells
+
+---
+
+### [GodZarathustra / SymmetryNet](https://github.com/GodZarathustra/SymmetryNet)
+
+SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images
+
+---
+
+### [GodZarathustra / SymmetryNet](https://github.com/GodZarathustra/SymmetryNet)
+
+SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images
+
+---
+
+### [LiuShang-777 / SingleCNN](https://github.com/LiuShang-777/SingleCNN)
+
+CNN models with single convoluton layer to predict transcription status of genes during cotton fiber development
+
+---
+
+### [imran3180 / depth-map-prediction](https://github.com/imran3180/depth-map-prediction)
+
+Pytorch Implementation of Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+
+---
+
+### [sgrvinod / a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+
+SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
+
+---
+
+### [IBM / MAX-Object-Detector](https://github.com/IBM/MAX-Object-Detector)
+
+Localize and identify multiple objects in a single image.
+
+---
+
+### [izikgo / AnomalyDetectionTransformations](https://github.com/izikgo/AnomalyDetectionTransformations)
+
+A simple and effective method for single-class classification of images
+
+---
+
+### [hdjang / Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)
+
+A PyTorch Implementation of Feature Selective Anchor-Free Module for Single-Shot Object Detection (CVPR'19)
+
+---
+
+### [siddhanthaldar / PyTorch_Object_Detection](https://github.com/siddhanthaldar/PyTorch_Object_Detection)
+
+PyTorch implementations of single-shot approaches for object detection in images
+
+---
+
+### [Ao-Lee / SingleObjectDetection](https://github.com/Ao-Lee/SingleObjectDetection)
+
+---
+
+### [yangdihan / single-object-detection-NN](https://github.com/yangdihan/single-object-detection-NN)
+
+---
+
+### [numan947 / Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch](https://github.com/numan947/Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch)
+
+This is a project that I have done to enrich my knowledge of PyTorch, computer vision and deep learning in general.
+
+---
+
+### [Chen-Ben-yashar / Panorama-from-video-RANSAC-Algorithm-](https://github.com/Chen-Ben-yashar/Panorama-from-video-RANSAC-Algorithm-)
+
+This program creates a panoramic photo from a short video. The program uses Image Processing algorithms: Harris Corner Detector for detecting edges, and the RANSAC algorithm to stich all the shots …
+
+---
+
+### [aaditagarwal / ActiveNet](https://github.com/aaditagarwal/ActiveNet)
+
+A pipeline which can detect levels of activeness in real-time, using a single RGB image of a target person
+
+---
+
+### [prajeeth15 / single-image-dehazing-and-fog-removal](https://github.com/prajeeth15/single-image-dehazing-and-fog-removal)
+
+To detect or remove the haze from a single image is a challenging task in computer vision, because little information about the scene structure is available. In spite of this, the human brain can q…
+
+---
+
+### [akhopkar01 / Object-Detection-for-Self-Driving-Cars](https://github.com/akhopkar01/Object-Detection-for-Self-Driving-Cars)
+
+CMSC498L Deep Learning final project- Object detection for autonomous vehicles by implementing pre-trained yolo model on COCO dataset and present a comparative study of single stage detectors
+
+---
+
+### [JizhiziLi / person-detector](https://github.com/JizhiziLi/person-detector)
+
+A machine learning model built on flask framework, mostly uses openCV to detect person in photo, can be used in single or batch images
+
+---
+
+### [sanshigo345 / breast_cancer_detector](https://github.com/sanshigo345/breast_cancer_detector)
+
+A simple program that uses machine learning (supervised learning) to train single layer neural network to classify clinical cases.
+
+---
+
+### [ratanpatil212 / Image-Color-Detection](https://github.com/ratanpatil212/Image-Color-Detection)
+
+A Single Page web Based Application to Check the Colors in an image.
+
+---
+
+### [vijeth-aradhya / traffic-sign-detection](https://github.com/vijeth-aradhya/traffic-sign-detection)
+
+A single image, multi-class classification problem with 43 classes (50,000 images)
+
+---
+
+### [derrick37 / Lane-detecton](https://github.com/derrick37/Lane-detecton)
+
+A simple lane detection solution is presented using a single image and a video
+
+---
+
+### [hovav698 / Simple-Object-Detection](https://github.com/hovav698/Simple-Object-Detection)
+
+Implement object detection algorithm for single object
+
+---
+
+### [TJUdyk / 2016_SSD-Single-Shot-MultiBox-Detector](https://github.com/TJUdyk/2016_SSD-Single-Shot-MultiBox-Detector)
+
+针对ssd算法进行详细的注释，读懂ssd源码
+
+---
+
+### [sarthak7509 / Single-class-object-detection](https://github.com/sarthak7509/Single-class-object-detection)
+
+This repo demonstrates the single class object detection code of how to train a CNN model for fitting it over predicting the Bounding box of the number plate of cars
+
+---
+
+### [DarkOne1211 / static-single-object-detection](https://github.com/DarkOne1211/static-single-object-detection)
+
+---
+
+### [lehommee / DPDnet-A-robust-people-detector-using-deep-learning-with-an-overhead-depth-camera](https://github.com/lehommee/DPDnet-A-robust-people-detector-using-deep-learning-with-an-overhead-depth-camera)
+
+This paper proposes a deep learning-based method to detect multiple people from a single overhead depth image with high precision. Our neural network, called DPDnet, is composed by two fully-convol…
+
+---
+
+### [Xujan24 / Object-Detection-using-CNN](https://github.com/Xujan24/Object-Detection-using-CNN)
+
+A simple single object detection using Convolutional Neural Network, (CNN).
+
+---
+
+### [hdkaimre / SinglePixelDetection](https://github.com/hdkaimre/SinglePixelDetection)
+
+Single-pixel three-dimensional imaging with time-based depth resolution.
+
+---
+
+### [Sundarram / SIFT-Feature-Detector](https://github.com/Sundarram/SIFT-Feature-Detector)
+
+Program to detect SIFT features between two images and to merge them together into a single image (OpenCV - Python)
+
+---
+
+### [dulucas / plane_detection_RGBD](https://github.com/dulucas/plane_detection_RGBD)
+
+Plane detection and segmentation using single RGBD image
+
+---
+
+### [toandaominh1997 / EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+
+Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
+
 ---
 
 ### [ariescc / speech-synthesis-tool](https://github.com/ariescc/speech-synthesis-tool)

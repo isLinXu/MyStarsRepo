@@ -1,5 +1,66 @@
 ## Following
 
+
+
+
+
+---
+
+[![@asingleneuron](https://avatars.githubusercontent.com/u/52558721?s=100&v=4)](https://github.com/asingleneuron)
+
+[shobhit upadhyaya asingleneuron](https://github.com/asingleneuron)
+
+Lead Data Scientist @ Societe Generale
+
+ Societe Generale Bangalore
+
+
+---
+
+[![@msnh2012](https://avatars.githubusercontent.com/u/17841334?s=100&v=4)](https://github.com/msnh2012)
+
+[msnh2012 msnh2012](https://github.com/msnh2012)
+
+ROS, robot arm, vision, deep learning, Qt
+
+ CASIA Beijing,China
+
+---
+
+[![@HuangCongQing](https://avatars.githubusercontent.com/u/20675770?s=100&v=4)](https://github.com/HuangCongQing)
+
+[双愚 HuangCongQing](https://github.com/HuangCongQing)
+
+There is a long way to go!
+
+ UCAS Master Beijing, China
+
+---
+
+[![@numan947](https://avatars.githubusercontent.com/u/9932705?s=100&v=4)](https://github.com/numan947)
+
+[S. Mahmudul Hasan numan947](https://github.com/numan947)
+
+B.Sc Engineer | CSE | BUET
+
+---
+
+[![@AdityaVetukuri](https://avatars.githubusercontent.com/u/57276142?s=100&v=4)](https://github.com/AdityaVetukuri)
+
+[Aditya Vetukuri AdityaVetukuri](https://github.com/AdityaVetukuri)
+
+A Computer Science Graduate, Currently Looking for Software Engineering roles. Strong 6+years of Computer Science background. Proficient in C++, Java and Python
+
+---
+
+[![@PeterouZh](https://avatars.githubusercontent.com/u/26176709?s=100&v=4)](https://github.com/PeterouZh)
+
+[Peterou PeterouZh](https://github.com/PeterouZh)
+
+I have trained thousands of GAN models in the past three years, including WGAN, BigGAN, and StyleGAN.
+
+ Shanghai Jiao Tong University
+
 ---
 
 [![@extreme-assistant](https://avatars.githubusercontent.com/u/23378199?s=100&v=4)](https://github.com/extreme-assistant)
