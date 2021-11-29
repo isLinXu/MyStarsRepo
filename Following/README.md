@@ -2,7 +2,145 @@
 
 
 
+---
 
+[![@JialianW](https://avatars.githubusercontent.com/u/39213200?s=100&v=4)](https://github.com/JialianW)
+
+[Jialian Wu JialianW](https://github.com/JialianW)
+
+Ph.D. Candidate at SUNY Buffalo
+
+ State University of New York at Buffalo Buffalo
+
+---
+
+[![@JJBOY](https://avatars.githubusercontent.com/u/28860249?s=100&v=4)](https://github.com/JJBOY)
+
+[qinxin JJBOY](https://github.com/JJBOY)
+
+ ZJU, Tencent Hangzhou,China
+
+---
+
+[![@andyzeng](https://avatars.githubusercontent.com/u/1686813?s=100&v=4)](https://github.com/andyzeng)
+
+[Andy Zeng andyzeng](https://github.com/andyzeng)
+
+Research Scientist in Robotics at Google Brain working on AI
+
+ Princeton University
+
+---
+
+[![@luogen1996](https://avatars.githubusercontent.com/u/38316576?s=100&v=4)](https://github.com/luogen1996)
+
+[luogen1996](https://github.com/luogen1996)
+
+---
+
+[![@shenyunhang](https://avatars.githubusercontent.com/u/10623778?s=100&v=4)](https://github.com/shenyunhang)
+
+[沈云航 Yunhang Shen shenyunhang](https://github.com/shenyunhang)
+
+----
+
+[![@KaimingHe](https://avatars.githubusercontent.com/u/11435359?s=100&v=4)](https://github.com/KaimingHe)
+
+[Kaiming He KaimingHe](https://github.com/KaimingHe)
+
+Research Scientist at FAIR
+
+ Facebook
+
+---
+
+[![@Renovamen](https://avatars.githubusercontent.com/u/29454156?s=100&v=4)](https://github.com/Renovamen)
+
+[Xiaohan Zou Renovamen](https://github.com/Renovamen)
+
+A dragon lost in human world
+
+ Boston University / Kwai Beijing
+
+---
+
+[![@Nicetiesniceties](https://avatars.githubusercontent.com/u/22555938?s=100&v=4)](https://github.com/Nicetiesniceties)
+
+[Njceties Nicetiesniceties](https://github.com/Nicetiesniceties)
+
+---
+
+[![@ccc013](https://avatars.githubusercontent.com/u/7010876?s=100&v=4)](https://github.com/ccc013)
+
+[Cai ccc013](https://github.com/ccc013)
+
+ 深圳
+
+---
+
+[![@YuzheSHI](https://avatars.githubusercontent.com/u/46876726?s=100&v=4)](https://github.com/YuzheSHI)
+
+[Yu-Zhe Shi YuzheSHI](https://github.com/YuzheSHI)
+
+Currently I'm working to build machines that execute abstraction, explaination, invention and planning like human, through Abduction the cognitive process.
+
+ AI & CoCoSci
+
+---
+
+[![@aaavinash85](https://avatars.githubusercontent.com/u/31934725?s=100&v=4)](https://github.com/aaavinash85)
+
+[Avinash Koshal aaavinash85](https://github.com/aaavinash85)
+
+Cloud Support Associate (Analytics) at Amazon Web Service (AWS) | Computer Vision | ML |おたく/オ
+
+ AWS Jammu and Kashmir, India
+
+---
+
+[![@duanzhiihao](https://avatars.githubusercontent.com/u/24869582?s=100&v=4)](https://github.com/duanzhiihao)
+
+[Zhihao Duan duanzhiihao](https://github.com/duanzhiihao)
+
+PhD student at Purdue University
+
+ SJTU, BU, Purdue West Lafayette
+
+---
+
+[![@liufuyang](https://avatars.githubusercontent.com/u/161689?s=100&v=4)](https://github.com/liufuyang)
+
+[Fuyang Liu liufuyang](https://github.com/liufuyang)
+
+Software Engineer [@spotify](https://github.com/spotify). Currently looking for stuff to code in Rust in his free time...
+
+ Spotify Stockholm
+
+---
+
+[![@scutan90](https://avatars.githubusercontent.com/u/31844692?s=100&v=4)](https://github.com/scutan90)
+
+[scutan90 scutan90](https://github.com/scutan90)
+
+---
+
+[![@guanfuchen](https://avatars.githubusercontent.com/u/22321977?s=100&v=4)](https://github.com/guanfuchen)
+
+[guanfuchen guanfuchen](https://github.com/guanfuchen)
+
+Come Back To Contribute. Still Be Curious.
+
+ Zhejiang University HangZhou
+
+---
+
+[![@zigangzhao-ai](https://avatars.githubusercontent.com/u/53070173?s=100&v=4)](https://github.com/zigangzhao-ai)
+
+[zigangzhao-ai](https://github.com/zigangzhao-ai)
+
+ wuhan
+
+---
 
 ---
 
