@@ -4,9 +4,165 @@ GitHub collection
 
 
 
-
+### USED
 
 ---
+
+### [microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+
+This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+
+---
+
+### [SwinTransformer / Swin-Transformer-Object-Detection](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection)
+
+This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows" on Object Detection and Instance Segmentation.
+
+---
+
+### [open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection)
+
+OpenMMLab Detection Toolbox and Benchmark
+
+---
+
+### [open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection)
+
+OpenMMLab Detection Toolbox and Benchmark
+
+---
+
+### [lucidrains / reformer-pytorch](https://github.com/lucidrains/reformer-pytorch)
+
+Reformer, the efficient Transformer, in Pytorch
+
+---
+
+### [berniwal / swin-transformer-pytorch](https://github.com/berniwal/swin-transformer-pytorch)
+
+Implementation of the Swin Transformer in PyTorch.
+
+---
+
+### [NVlabs / SegFormer](https://github.com/NVlabs/SegFormer)
+
+Official PyTorch implementation of SegFormer
+
+---
+
+### [pytorch / pytorch](https://github.com/pytorch/pytorch)
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+---
+
+### [pytorch / vision](https://github.com/pytorch/vision)
+
+Datasets, Transforms and Models specific to Computer Vision
+
+---
+
+### [Cai-Yichao / torch_backbones](https://github.com/Cai-Yichao/torch_backbones)
+
+Unofficial implementations of some classical CNN backbones with pytorch
+
+---
+
+### [kuangliu / pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
+
+95.47% on CIFAR10 with PyTorch
+
+---
+
+### [zhanghang1989 / PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
+
+A CV toolkit for my papers.
+
+---
+
+### [albumentations-team / albumentations](https://github.com/albumentations-team/albumentations)
+
+Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
+
+---
+
+
+
+
+
+## AWESOME
+
+---
+
+### [apachecn / awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution)
+
+数据科学/人工智能比赛解决方案汇总
+
+---
+
+### [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+A collection of research papers on decision, classification and regression trees with implementations.
+
+---
+
+### [benedekrozemberczki / awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+
+A curated list of community detection research papers with implementations.
+
+---
+
+### [INTERMT / Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
+
+【干货】史上最全的PyTorch学习资源汇总
+
+---
+
+### [jekil / awesome-hacking](https://github.com/jekil/awesome-hacking)
+
+Awesome hacking is an awesome collection of hacking tools.
+
+---
+
+### [josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+A curated list of awesome Machine Learning frameworks, libraries and software.
+
+---
+
+### [terryum / awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+The most cited deep learning papers
+
+---
+
+### [hoya012 / deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+
+A paper list of object detection using deep learning.
+
+---
+
+### [weiaicunzai / awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+
+A curated list of deep learning image classification papers and codes
+
+---
+
+### [amusi / awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+
+Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+
+---
+
+### [MenghaoGuo / Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
+
+Summary of related papers on visual attention
+
+---
+
+
+
+
 
 ### [MachineLearningJournalClub / Lectures](https://github.com/MachineLearningJournalClub/Lectures)
 
@@ -686,13 +842,915 @@ Bottom-up Object Detection by Grouping Extreme and Center Points
 
 ---
 
+## OTHER
+
+---
+
+### [pksenpai / Starterdex](https://github.com/pksenpai/Starterdex)
+
+A computer vision web-app that uses deep learning and Residual Neural Networks to identify your Pokémon and then tells you all about it.
+
+---
+
+### [imankgoyal / NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks)
+
+Official Code for "Non-deep Networks"
+
+---
+
+
+
+
+
+## GOOD
+
+---
+
+### [pytorch / examples](https://github.com/pytorch/examples)
+
+A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+
+---
+
+### [vacancy / Synchronized-BatchNorm-PyTorch](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch)
+
+Synchronized Batch Normalization implementation in PyTorch.
+
+---
+
+### [facebookresearch / pycls](https://github.com/facebookresearch/pycls)
+
+Codebase for Image Classification Research, written in PyTorch.
+
+---
+
+### [guanfuchen / objdet](https://github.com/guanfuchen/objdet)
+
+实现常用的one-stage和two-stage目标检测网络
+
+---
+
+### [udacity / self-driving-car-sim](https://github.com/udacity/self-driving-car-sim)
+
+A self-driving car simulator built with Unity
+
+---
+
+### [The-AI-Summer / self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv)
+
+Implementation of various self-attention mechanisms focused on computer vision. Ongoing repository.
+
+---
+
+### [alankbi / detecto](https://github.com/alankbi/detecto)
+
+Build fully-functioning computer vision models with PyTorch
+
+---
+
+### [farzaa / DeepLeague](https://github.com/farzaa/DeepLeague)
+
+(Open Source) Computer Vision + Deep Learning + League of Legends
+
+---
+
+### [facebookresearch / fvcore](https://github.com/facebookresearch/fvcore)
+
+Collection of common code that's shared among different research projects in FAIR computer vision team.
+
+---
+
+### [nh9k / pytorch-implementation](https://github.com/nh9k/pytorch-implementation)
+
+Pytorch implementation(LeNet, VGGNet, GAN, UNet, Mask R-CNN, ...)
+
+---
+
+### [Mikoto10032 / DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+
+深度学习入门教程, 优秀文章, Deep Learning Tutorial
+
+---
+
+### [lxztju / pytorch_classification](https://github.com/lxztju/pytorch_classification)
+
+利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码
+
+---
+
+### [omerbsezer / Fast-Pytorch](https://github.com/omerbsezer/Fast-Pytorch)
+
+Pytorch Tutorial, Pytorch with Google Colab, Pytorch Implementations: CNN, RNN, DCGAN, Transfer Learning, Chatbot, Pytorch Sample Codes
+
+---
+
+### [handcraftsman / GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+
+source code from the book Genetic Algorithms with Python by Clinton Sheppard
+
+---
+
+### [ahmedfgad / GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
+
+Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).
+
+---
+
+### [giddyyupp / AdvSegLoss](https://github.com/giddyyupp/AdvSegLoss)
+
+Official Pytorch implementation of Adversarial Segmentation Loss for Sketch Colorization [ICIP 2021]
+
+---
+
+### [wzmsltw / PaintTransformer](https://github.com/wzmsltw/PaintTransformer)
+
+Official PaddlePaddle implementation of Paint Transformer
+
+---
+
+
+
+
+
+## GAN
+
+---
+
+### [YadiraF / GAN](https://github.com/YadiraF/GAN)
+
+Resources and Implementations of Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
+
+---
+
+### [eriklindernoren / PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+
+PyTorch implementations of Generative Adversarial Networks.
+
+---
+
+### [maciejzieba / tripletGAN](https://github.com/maciejzieba/tripletGAN)
+
+code for triplet GAN
+
+---
+
+### [soumith / ganhacks](https://github.com/soumith/ganhacks)
+
+starter from "How to Train a GAN?" at NIPS2016
+
+---
+
+### [dome272 / ProjectedGAN-pytorch](https://github.com/dome272/ProjectedGAN-pytorch)
+
+Pytorch implementation of ProjectedGAN (https://arxiv.org/abs/2111.01007)
+
+---
+
+### [devnag / pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks)
+
+A very simple generative adversarial network (GAN) in PyTorch
+
+---
+
+### [junyanz / BicycleGAN](https://github.com/junyanz/BicycleGAN)
+
+Toward Multimodal Image-to-Image Translation
+
+---
+
+### [heykeetae / Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN)
+
+Pytorch implementation of Self-Attention Generative Adversarial Networks (SAGAN)
+
+---
+
+### [tertiarycourses / GANTraining](https://github.com/tertiarycourses/GANTraining)
+
+Exercise files for Generative Adversarial Networks (GAN) Course for Beginners
+
+---
+
+### [PrashanthTk / AdvGAN](https://github.com/PrashanthTk/AdvGAN)
+
+---
+
+### [AaronYALai / Generative_Adversarial_Networks_PyTorch](https://github.com/AaronYALai/Generative_Adversarial_Networks_PyTorch)
+
+(PyTorch) 在 PyTorch 中实现 GAN、改进的 GAN、DCGAN、LAPGAN 和 InfoGAN
+
+---
+
+### [KristofferLM96 / GAN-human-pokemon](https://github.com/KristofferLM96/GAN-human-pokemon)
+
+使用 GAN 的图像到图像转换。（人类图像并将其变成神奇宝贝。） 阿格德大学 ICT 研讨会 2 (IKT441) 的学生项目。基于 junyanz github 仓库：https://...
+
+---
+
+### [kamenbliznashki / generative_models](https://github.com/kamenbliznashki/generative_models)
+
+Pytorch implementations of generative models: VQVAE2, AIR, DRAW, InfoGAN, DCGAN, SSVAE
+
+----
+
+### [jayleicn / animeGAN](https://github.com/jayleicn/animeGAN)
+
+A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.
+
+---
+
+### [lewjonan / PyTorch-CartoonGAN](https://github.com/lewjonan/PyTorch-CartoonGAN)
+
+a simple PyTorch implementation of CartoonGAN
+
+---
+
+### [jiayi-ma / FusionGAN](https://github.com/jiayi-ma/FusionGAN)
+
+FusionGAN: A generative adversarial network for infrared and visible image fusion
+
+---
+
+### [hanna-xu / DDcGAN](https://github.com/hanna-xu/DDcGAN)
+
+Code of DDcGAN for infrared and visible image fusion and medical image fusion
+
+---
+
+### [JorgeFCS / Image-fusion-GAN](https://github.com/JorgeFCS/Image-fusion-GAN)
+
+Implementation of the FIRe-GAN model, a GAN-based method for the fusion of visible-infrared images.
+
+---
+
+### [shaoanlu / faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
+
+A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.
+
+---
+
+### [PaddlePaddle / PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)
+
+PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+
+---
+
+### [hindupuravinash / the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+A list of all named GANs!
+
+---
+
+### [giddyyupp / ganilla](https://github.com/giddyyupp/ganilla)
+
+Official Pytorch implementation of GANILLA
+
+---
+
+### [NVlabs / stylegan3](https://github.com/NVlabs/stylegan3)
+
+Official PyTorch implementation of StyleGAN3
+
+---
+
+
+
+---
+
+## FUNNY IDEA
+
+---
+
+### [Jacobi93 / Alpha-IoU](https://github.com/Jacobi93/Alpha-IoU)
+
+Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression
+
+---
+
+### [Keep-Passion / GACN](https://github.com/Keep-Passion/GACN)
+
+End-to-End Learning for Simultaneously Generating Decision Map and Multi-Focus Image Fusion Result
+
+---
+
+### [bvirxx / bLUe_PYSIDE2](https://github.com/bvirxx/bLUe_PYSIDE2)
+
+bLUe - A simple and comprehensive image editor featuring automatic contrast enhancement, color correction, 3D LUT creation, raw postprocessing, exposure fusion and noise reduction
+
+---
+
+### [NVlabs / imaginaire](https://github.com/NVlabs/imaginaire)
+
+NVIDIA's Deep Imagination Team's PyTorch Library
+
+---
+
+### [TomMao23 / multiyolov5](https://github.com/TomMao23/multiyolov5)
+
+joint detection and semantic segmentation, based on ultralytics/yolov5,
+
+---
+
+### [JDAI-CV / CoTNet](https://github.com/JDAI-CV/CoTNet)
+
+This is an official implementation for "Contextual Transformer Networks for Visual Recognition".
+
+---
+
+### [laiguokun / LSTNet](https://github.com/laiguokun/LSTNet)
+
+---
+
+
+
+
+
+## PAPER
+
+---
+
+### [imankgoyal / NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks)
+
+Official Code for "Non-deep Networks"
+
+---
+
+### [sunshineatnoon / Paper-Implementations](https://github.com/sunshineatnoon/Paper-Implementations)
+
+Use PyTorch to implement some classic frameworks
+
+---
+
+### [SunYanCN / Latex-Beamer-Template](https://github.com/SunYanCN/Latex-Beamer-Template)
+
+中文学术LaTeX Beamer模板
+
+---
+
+### [DWCTOD / ICCV2021-Papers-with-Code-Demo](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo)
+
+ICCV 2021 paper with code
+
+---
+
+### [DWCTOD / CVPR2021-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo)
+
+收集 CVPR 最新的成果，包括论文、代码和demo视频等，欢迎大家推荐！
+
+---
+
+### [louisfb01 / Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)
+
+A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
+
+---
+
+### [amusi / ICCV2021-Papers-with-Code](https://github.com/amusi/ICCV2021-Papers-with-Code)
+
+ICCV 2021 论文和开源项目合集
+
+---
+
+### [amusi / CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code)
+
+CVPR 2021 论文和开源项目合集
+
+### [lzhbrian / image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
+
+![zebra](https://github.githubassets.com/images/icons/emoji/unicode/1f993.png)<->![giraffe](https://github.githubassets.com/images/icons/emoji/unicode/1f992.png) ![night_with_stars](https://github.githubassets.com/images/icons/emoji/unicode/1f303.png)<->![city_sunset](https://github.githubassets.com/images/icons/emoji/unicode/1f306.png) A collection of image to image papers with code (constantly updating)
+
+---
+
+### [amusi / daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)
+
+记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+
+---
+
+### [Sampai28 / XCI-Sketch](https://github.com/Sampai28/XCI-Sketch)
+
+Official implementation of https://arxiv.org/abs/2108.11554 paper
+
+---
+
+### [zhangqianhui / AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+Awesome paper list with code about generative adversarial nets
+
+---
+
+### [CSAILVision / gandissect](https://github.com/CSAILVision/gandissect)
+
+Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/
+
+---
+
+### [dragen1860 / awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning)
+
+A curated list of Meta-Learning resources/papers.
+
+---
+
+### [Eatzhy / surface-defect-detection](https://github.com/Eatzhy/surface-defect-detection)
+
+缺陷检测文献记录
+
+---
+
+
+
+## TEST
+
+
+
+
+
+---
+
+### [supernotman / Faster-RCNN-with-torchvision](https://github.com/supernotman/Faster-RCNN-with-torchvision)
+
+A reimplement of Faster-rcnn with torchvision
+
+---
+
+### [minar09 / VGG16-PyTorch](https://github.com/minar09/VGG16-PyTorch)
+
+VGG16 Net implementation from PyTorch Examples scripts for ImageNet dataset
+
+---
+
+### [zoukai214 / vgg16_classifiter_pytorch](https://github.com/zoukai214/vgg16_classifiter_pytorch)
+
+手动一步步搭建vgg16，对图片进行分类，并使用tensorboard进行记录
+
+---
+
+### [IanTaehoonYoo / semantic-segmentation-pytorch](https://github.com/IanTaehoonYoo/semantic-segmentation-pytorch)
+
+Pytorch implementation of FCN, UNet, PSPNet, and various encoder models.
+
+---
+
+### [yxlijun / Pyramidbox.pytorch](https://github.com/yxlijun/Pyramidbox.pytorch)
+
+Pyramidbox implement with pytorch
+
+---
+
+### [bbvanexttechnologies / fakeVideoForensics](https://github.com/bbvanexttechnologies/fakeVideoForensics)
+
+Detect deep fakes videos
+
+---
+
+### [ondyari / FaceForensics](https://github.com/ondyari/FaceForensics)
+
+Github of the FaceForensics dataset
+
+---
+
+### [592McAvoy / fake-face-detection](https://github.com/592McAvoy/fake-face-detection)
+
+some collected paper and personal notes relevant to Fake Face
+
+---
+
+### [Strawberry-Eat-Mango / PCT_Pytorch](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch)
+
+Pytorch implementation of PCT: Point Cloud Transformer
+
+---
+
+### [marcelampc / aerial_mtl](https://github.com/marcelampc/aerial_mtl)
+
+PyTorch implementation for multi-task learning with aerial images for the datasets: IEEE Data Fusion Contest 2018 (DFC2018) and ISPRS-Vaihingen.
+
+---
+
+### [GrimReaperSam / imagefusion_pytorch](https://github.com/GrimReaperSam/imagefusion_pytorch)
+
+Infrared and visible image fusion using deep learning framework (Pytorch)
+
+---
+
+### [hila-chefer / Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability)
+
+[ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-…
+
+---
+
+### [thfylsty / Classic-and-state-of-the-art-image-fusion-methods](https://github.com/thfylsty/Classic-and-state-of-the-art-image-fusion-methods)
+
+CBF,CVT,DTCWT,GTF,LP,MSVD,RP,Wavelet,CNN,Deepfuse,DenseFuse,FusionGAN,IFCNN,MDlatLRR,DDcGAN,ResNetFusion,NestFuse,NVCE,FusionDN,HybridMSD,PMGI,IFEVIP,StructAware,U2Fusion,MEF-GAN，JSR,ConvSR,DCHWT,M…
+
+---
+
+### [zhulf0804 / 3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)
+
+Papers and Datasets about Point Cloud.
+
+---
+
+### [amueller / word_cloud](https://github.com/amueller/word_cloud)
+
+A little word cloud generator in Python
+
+---
+
+### [nuriyeyldrm / deep_image_fusion](https://github.com/nuriyeyldrm/deep_image_fusion)
+
+Multi-Sensor Image (infrared and visible) Fusion using deep learning framework, Principal Component Analysis, Discrete Wavelet Transform
+
+---
+
+### [renezurbruegg / SemanticInstanceFusion](https://github.com/renezurbruegg/SemanticInstanceFusion)
+
+Semantic Instance Fusion for 3D reconstruction of RGB-D indoor images in python
+
+---
+
+### [pfchai / ImageFusion](https://github.com/pfchai/ImageFusion)
+
+图像融合的一些经典算法
+
+---
+
+### [adrianmarino / growing-neural-cellular-automata](https://github.com/adrianmarino/growing-neural-cellular-automata)
+
+growing-neural-cellular-automata
+
+---
+
+### [chenmingxiang110 / Growing-Neural-Cellular-Automata](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata)
+
+A reproduction of growing neural cellular automata using PyTorch.
+
+----
+
+### [RedRyan111 / Growing-Neural-Cellular-Automata](https://github.com/RedRyan111/Growing-Neural-Cellular-Automata)
+
+A simple Pytorch and Jupyter Notebook re-coding of this paper https://distill.pub/2020/growing-ca/ while using a downloaded emoji dataset from this git repository https://github.com/iamcal/emoji-data
+
+---
+
+### [AmrElsersy / PointPainting](https://github.com/AmrElsersy/PointPainting)
+
+Real Time Semantic Segmentation for both LIDAR & Camera using BiseNetv2 & PointPainting Fusion in Pytorch
+
+---
+
+### [dragen1860 / GCN-PyTorch](https://github.com/dragen1860/GCN-PyTorch)
+
+Graph Convolution Network for PyTorch
+
+---
+
+### [RedRyan111 / Growing-Neural-Cellular-Automata](https://github.com/RedRyan111/Growing-Neural-Cellular-Automata)
+
+A simple Pytorch and Jupyter Notebook re-coding of this paper https://distill.pub/2020/growing-ca/ while using a downloaded emoji dataset from this git repository https://github.com/iamcal/emoji-data
+
+---
+
+### [chenmingxiang110 / Growing-Neural-Cellular-Automata](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata)
+
+A reproduction of growing neural cellular automata using PyTorch.
+
+****
+
+### [adrianmarino / growing-neural-cellular-automata](https://github.com/adrianmarino/growing-neural-cellular-automata)
+
+growing-neural-cellular-automata
+
+---
+
+### [vipul2001 / Modern-CNNs-Implementation](https://github.com/vipul2001/Modern-CNNs-Implementation)
+
+AlexNet , VGG Blocks , Network In Network (NIN),GoogleNet,ResNet,DenseNet Using Pytorch
+
+---
+
+### [nh9k / Computer-vision](https://github.com/nh9k/Computer-vision)
+
+Computer Vision implementation
+
+---
+
+### [Suvoo / Image-Style-Transfer-Using-CNNs](https://github.com/Suvoo/Image-Style-Transfer-Using-CNNs)
+
+Implementation of Image Style Transfer Using CNNs using Pytorch.
+
+---
+
+### [YuhaoYeSteve / Pytorch-CNN-Classifier-Resnet-Senet-Efficientnet](https://github.com/YuhaoYeSteve/Pytorch-CNN-Classifier-Resnet-Senet-Efficientnet)
+
+Customized Image Classifier based on Pytorch with visdom visualization Support customized dataset, augmentation and SOTA CNN(Resnet, Senet, EfficientNet....))
+
+---
+
+### [delldu / ImageCNN](https://github.com/delldu/ImageCNN)
+
+One Classifier Based On Transfer Learning
+
+---
+
+### [lisongshi / Pytorch](https://github.com/lisongshi/Pytorch)
+
+using pytorch to finish my first CNN
+
+---
+
+### [bbrattoli / PascalClassificationPytorch](https://github.com/bbrattoli/PascalClassificationPytorch)
+
+Train CNN for Pascal VOC 2007 Multi label Image classification
+
+---
+
+### [Guillem96 / ssd-pytorch](https://github.com/Guillem96/ssd-pytorch)
+
+SSD implementation with modern PyTorch
+
+---
+
+### [Djilaxx / GAN_pkmn](https://github.com/Djilaxx/GAN_pkmn)
+
+在 pokemon 图像上应用 DCGAN 以发现潜在的 AI 创造的酷 pokemon
+
+---
+
+
+
+### [lzx1413 / PytorchSSD](https://github.com/lzx1413/PytorchSSD)
+
+pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet
+
+---
+
+### [jianzhnie / RFBNet_Pytorch](https://github.com/jianzhnie/RFBNet_Pytorch)
+
+RFBNet in Pytorch
+
+---
+
+### [DowLucas / PokemonAE-pytorch](https://github.com/DowLucas/PokemonAE-pytorch)
+
+---
+
+### [qinzhenyi1314 / ssd.pytorch](https://github.com/qinzhenyi1314/ssd.pytorch)
+
+用pytorch复现ssd并在自己的数据集上进行行人检测
+
+---
+
+### [AceCoooool / detection-pytorch](https://github.com/AceCoooool/detection-pytorch)
+
+A pytorch Implementation of classical object detection.
+
+---
+
+### [oke-aditya / pytorch_cnn_trainer](https://github.com/oke-aditya/pytorch_cnn_trainer)
+
+A Simple but Powerful CNN Trainer For PyTorch
+
+---
+
+### [kosuke55 / train_baiducnn](https://github.com/kosuke55/train_baiducnn)
+
+Train lidar apollo instance segmentation CNN
+
+---
+
+### [scutan90 / CNN-Visualization](https://github.com/scutan90/CNN-Visualization)
+
+CNN可视化、理解CNN
+
+---
+
+### [shanglianlm0525 / PyTorch-Networks](https://github.com/shanglianlm0525/PyTorch-Networks)
+
+Pytorch implementation of cnn network
+
+---
+
+### [liuweixue001 / TinySSD](https://github.com/liuweixue001/TinySSD)
+
+简单目标检测算法的实现流程(SSD)，可以直接运行model文件, 摘自《动手学深度学习pytorch》
+
+---
+
+### [MichiganCOG / ViP](https://github.com/MichiganCOG/ViP)
+
+Video Platform for Action Recognition and Object Detection in Pytorch
+
+---
+
+### [ViswanathaReddyGajjala / SSD_MobileNet](https://github.com/ViswanathaReddyGajjala/SSD_MobileNet)
+
+SSD: Single Shot MultiBox Detector | a PyTorch Model for Object Detection | VOC , COCO | Custom Object Detection
+
+---
+
+### [2014Vee / ssd-pytorch](https://github.com/2014Vee/ssd-pytorch)
+
+基于pytorch版ssd进行改进注入CBAM空间通道注意力机制，加入FPN，类别损失函数改为focalloss
+
+---
+
+### [dfan / awa2-zero-shot-learning](https://github.com/dfan/awa2-zero-shot-learning)
+
+Zero shot learning on Animals with Attributes 2 dataset using PyTorch.
+
+---
+
+### [numan947 / Deep-Learning-Projects](https://github.com/numan947/Deep-Learning-Projects)
+
+This is a selected mishmash of all the small projects and architectures that I implemented during my journey through the Deep Learning learning curve.
+
+---
+
+### [numan947 / Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch](https://github.com/numan947/Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch)
+
+This is a project that I have done to enrich my knowledge of PyTorch, computer vision and deep learning in general.
+
+---
+
+### [zigangzhao-ai / ssd.pytorch](https://github.com/zigangzhao-ai/ssd.pytorch)
+
+a practice about ssd.pytorch-- https://github.com/amdegroot/ssd.pytorch
+
+---
+
+### [YimianDai / sirst](https://github.com/YimianDai/sirst)
+
+A dataset constructed for single-frame infrared small target detection
+
+---
+
+### [KsongloveCv / CNNs_with_pytorch](https://github.com/KsongloveCv/CNNs_with_pytorch)
+
+An implement of LeNet, AlexNet, VGG16, GoogLeNet and ResNet with Pytorch
+
+---
+
+### [Nicetiesniceties / ntucsie-Computer-Vision1](https://github.com/Nicetiesniceties/ntucsie-Computer-Vision1)
+
+This is all my homework for Computer Vision1 in National Taiwan University 2018 Fall CS department.
+
+---
+
+### [pdudero / udacity-cvnd-projects](https://github.com/pdudero/udacity-cvnd-projects)
+
+My solutions to the projects assigned for the Udacity Computer Vision Nanodegree
+
+---
+
+### [DHZS / faster-rcnn-pytorch](https://github.com/DHZS/faster-rcnn-pytorch)
+
+Faster R-CNN in PyTorch 1.0
+
+---
+
+### [Transformer-man / yolo-deepsort-flask](https://github.com/Transformer-man/yolo-deepsort-flask)
+
+Target detection and multi target tracking platform based on Yolo DeepSort and Flask.
+
+---
+
+### [PandaXcentric / pokemon_classifier](https://github.com/PandaXcentric/pokemon_classifier)
+
+Trying to train a classifier for the original 151 pokemon
+
+---
+
+### [Lukeasargen / MulticlassSegmentation](https://github.com/Lukeasargen/MulticlassSegmentation)
+
+Pytorch UNet and Flask app experiment
+
+---
+
+### [ireneuszcierpisz / Deploying_App_with_Flask](https://github.com/ireneuszcierpisz/Deploying_App_with_Flask)
+
+Deploying PyTorch model Image Classifier with Flask
+
+---
+
+### [Plemeur / Classification-app](https://github.com/Plemeur/Classification-app)
+
+---
+
+### [florentinecitron / image_server](https://github.com/florentinecitron/image_server)
+
+Processing and serving oscar image model
+
+---
+
+### [L-Red / BERTrarch](https://github.com/L-Red/BERTrarch)
+
+---
+
+### [thomasbohm / pokemon-classifier](https://github.com/thomasbohm/pokemon-classifier)
+
+A project to classifiy pokemon images of 151 distinct classes using deep learning and PyTorch.
+
+---
+
+### [bupt-ai-cz / LLVIP](https://github.com/bupt-ai-cz/LLVIP)
+
+LLVIP: A Visible-infrared Paired Dataset for Low-light Vision
+
+---
+
+
+
+
+
+
+
+## TEMPLATE
+
+---
+
+### [kaylode / custom-template](https://github.com/kaylode/custom-template)
+
+Template for all Pytorch projects
+
+---
+
+### [recepayddogdu / Freespace_Segmentation-Ford_Otosan_Intern](https://github.com/recepayddogdu/Freespace_Segmentation-Ford_Otosan_Intern)
+
+Development of Deep Learning algorithm for Drivable Area Segmentation with data collected and labeled by Ford Otosan.
+
+---
+
+
+
+
+
+
+
+
+
+## NOTE
+
 ### [datawhalechina / leeml-notes](https://github.com/datawhalechina/leeml-notes)
 
 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
 
 ---
 
+### [wmpscc / CNN-Series-Getting-Started-and-PyTorch-Implementation](https://github.com/wmpscc/CNN-Series-Getting-Started-and-PyTorch-Implementation)
+
+我的笔记和Demo，包含分类，检测、分割、知识蒸馏。
+
+---
+
+### [YuzheSHI / Learning_Computer_Vision](https://github.com/YuzheSHI/Learning_Computer_Vision)
+
+Notes and Codes for learning OpenCV-Python.
+
+---
+
+### [tugstugi / dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)
+
+Try out deep learning models online on Google Colab
+
+---
+
+### [dragen1860 / Deep-Learning-with-PyTorch-Tutorials](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)
+
+深度学习与PyTorch入门实战视频教程配套源代码和PPT
+
+---
+
 ### [datawhalechina / learn-nlp-with-transformers](https://github.com/datawhalechina/learn-nlp-with-transformers)
+
+---
+
+### [weslynn / 100-Days-Of-AI-Code](https://github.com/weslynn/100-Days-Of-AI-Code)
+
+100 Days of Artificial Intelligence Coding。人工智能100天. 100张知识卡片，100篇经典中英对照论文 100份代码 python+pytorch配置。
+
+---
+
+### [PaddlePaddle / awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)
+
+深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI
+
+---
+
+### [r-isachenko / 2021-DGM-MIPT-course](https://github.com/r-isachenko/2021-DGM-MIPT-course)
+
+Deep Generative Models course, Moscow Institute of Physics and Technology, 2021
+
+---
+
+### [ljpzzz / machinelearning](https://github.com/ljpzzz/machinelearning)
+
+My blogs and code for machine learning. http://cnblogs.com/pinard
+
+---
+
+### [lyhue1991 / eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+
+Tensorflow2.0 ![apple](https://github.githubassets.com/images/icons/emoji/unicode/1f34e.png)![tangerine](https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png) is delicious, just eat it! ![yum](https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png)![yum](https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png)
 
 ---
 
@@ -2818,18 +3876,6 @@ Dynamically generated stats for your github readmes
 ### [facebookresearch / detectron2](https://github.com/facebookresearch/detectron2)
 
 Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
-
----
-
-### [zhanghang1989 / PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
-
-A CV toolkit for my papers.
-
----
-
-### [Laughing-q / multiyolov5](https://github.com/Laughing-q/multiyolov5)
-
-joint detection and semantic segmentation, based on ultralytics/yolov5,
 
 ---
 
