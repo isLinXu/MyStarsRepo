@@ -4,9 +4,63 @@ GitHub collection
 
 
 
-### USED
+## Paddle
 
 ---
+
+### [PaddlePaddle / docs](https://github.com/PaddlePaddle/docs)
+
+Documentations for PaddlePaddle
+
+---
+
+### [PaddlePaddle / Paddle](https://github.com/PaddlePaddle/Paddle)
+
+PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+
+---
+
+
+
+
+
+
+
+---
+
+## USED
+
+### [sunshineatnoon / Paper-Implementations](https://github.com/sunshineatnoon/Paper-Implementations)
+
+Use PyTorch to implement some classic frameworks
+
+---
+
+### [AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+2021 年成为人工智能专家的路线图
+
+---
+
+
+
+## Course
+
+---
+
+### [tuanavu / coursera-stanford](https://github.com/tuanavu/coursera-stanford)
+
+Stanford
+
+---
+
+
+
+
+
+---
+
+
 
 ### [microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
 
@@ -6851,3 +6905,12 @@ TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 
 ---
 
+
+
+### hexo
+
+---
+
+### [blinkfox / hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
+
+A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
